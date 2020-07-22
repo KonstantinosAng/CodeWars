@@ -11,7 +11,7 @@ class Test:
     print("Test Case resulted in {} {}". format(result, "✅" if result==self.test_case else "❌"))
 
 
-def Tester(test_case):
+def Tester(test_case, *args, **kwargs):
 
   def test_it(func):
     """
@@ -28,13 +28,15 @@ def Tester(test_case):
       :return: None
       """
       try:
-        result = func(*args, **kwargs) == test_case
+        ret = func(*args, **kwargs)
+        result = ret == test_case
         return result
       except Exception as e:
         print("[TEST CASE: ({.__name__}) ] {} ❗❗❗".format(func, e))
       finally:
         if result is not None:
           print("[FUNCTION] {.__name__} ➡ [TEST CASE] {}".format(func, test_case))
-          print("Test Case resulted in {} {}". format(result, "✅" if result else "❌"))
-    return test
+          print("Test Case resulted in {} {}". format(ret, "✅" if result else "❌"))
+    return test(*args, **kwargs)
   return test_it
+ 
