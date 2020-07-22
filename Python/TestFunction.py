@@ -8,7 +8,7 @@ class Test:
     self.result = None
 
   def assert_result(self, result):
-    print("Test Case resulted in {} {}". format(result, "✅" if result==self.test_case else "❌"))
+    print("Test Case {} resulted in {} {}". format(self.test_case, result, "✅" if result==self.test_case else "❌"))
 
 
 def Tester(test_case, *args, **kwargs):
