@@ -14,10 +14,17 @@ def test_it(func, parameters, test_case):
     :param kwargs: any keyword argument
     :return: None
     """
+    result = None
     try:
       result = func(*args, **kwargs) == test_case
       return result
+    except Exception as e:
+      print("[TEST CASE: ({.__name__}) ] {} ❗❗❗".format(func, e))
     finally:
-      print("[FUNCTION] {.__name__}".format(func))
-      print("Test Case {} resulted in {}". format(test_case, result))
+      if result is not None:
+        print("[FUNCTION] {.__name__} ➡ [TEST CASE] {}".format(func, test_case))
+        if result:
+          print("Test Case resulted in {} ✅". format(result))
+        else:
+          print("Test Case resulted in {} ❌". format(result))
   return test(parameters)
