@@ -4,7 +4,7 @@ from functools import wraps
 class Test:
 
   def __init__(self, tests):
-    self.test_cases = tests
+    self.test_case = tests
     self.result = None
 
   def assert_result(self, result):
