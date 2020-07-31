@@ -25,7 +25,6 @@ def find_emirp(n):
   emrips = [num for num in primes_ if is_emrip(num)]
   return [len(emrips), max(emrips) if emrips != [] else 0, sum(emrips)]
 
-
 test = Test(None)
 test.assert_equals(find_emirp(10), [0, 0, 0])
 test.assert_equals(find_emirp(50), [4, 37, 98])
