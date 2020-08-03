@@ -2,20 +2,10 @@
 
 from TestFunction import Test
 
-"""def parts_sums(ls):
-  if ls == []: return [0]
-  s = []
-  i = 0
-  while i != len(ls):
-    s.append(sum(ls[i:]))
-    i += 1
-  return s + [0]
-"""
 
 def parts_sums(ls):
   if ls == []: return [0]
   return [sum(ls[i:]) for i in range(len(ls)+1)]
-
 
 Test = Test(None)
 
