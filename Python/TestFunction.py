@@ -10,8 +10,8 @@ class Test:
   def assert_result(self, result):
     print("Test Case {} resulted in {} {}". format(self.test_case, result, "✅" if result==self.test_case else "❌"))
   
-  def assert_equals(self, result, test_case):
-    print("Test Case {} resulted in {} {}". format(test_case, result, "✅" if result==test_case else "❌"))
+  def assert_equals(self, *args):
+    print("Test Case {} resulted in {} {}". format(args[1], args[0], "✅" if args[0]==args[1] else "❌"))
 
 
 def Tester(test_case, *args, **kwargs):
