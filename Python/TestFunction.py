@@ -7,6 +7,12 @@ class Test:
     self.test_case = tests
     self.result = None
 
+  def it(self):
+    pass
+
+  def describe(self):
+    pass
+
   def assert_result(self, result):
     print("Test Case {} resulted in {} {}". format(self.test_case, result, "✅" if result==self.test_case else "❌"))
   
