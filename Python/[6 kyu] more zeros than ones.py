@@ -1,4 +1,4 @@
-# see 
+# see https://www.codewars.com/kata/5d41e16d8bad42002208fe1a/solutions/python
 
 from TestFunction import Test
 
@@ -8,9 +8,8 @@ def more_zeros(s):
   for letter in s:
     if letter not in count:
       count[letter] = 1
-      print(letter, letter.encode('ascii', 'replace'))
-      binary = str(letter.encode('ascii', 'replace'), 2).replace('0b', '')
-      if binary.count('0') >= binary.count('1'):
+      binary = format(ord(letter), 'b')
+      if binary.count('0') > binary.count('1'):
         rv.append(letter)
   return rv
 
