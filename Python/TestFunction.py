@@ -7,16 +7,16 @@ class Test:
     self.test_case = tests
     self.result = None
 
-  def it(self):
+  def it(self, *args, **kwargs):
     pass
 
-  def describe(self):
+  def describe(self, *args, **kwargs):
     pass
 
-  def assert_result(self, result):
-    print("Test Case {} resulted in {} {}". format(self.test_case, result, "✅" if result==self.test_case else "❌"))
+  def assert_result(self, *args):
+    print("Test Case {} resulted in {} {}". format(self.test_case, args[0], "✅" if args[0]==self.test_case else "❌"))
   
-  def assert_equals(self, *args):
+  def assert_equals(self, *args, **kwargs):
     print("Test Case {} resulted in {} {}". format(args[1], args[0], "✅" if args[0]==args[1] else "❌"))
 
 
