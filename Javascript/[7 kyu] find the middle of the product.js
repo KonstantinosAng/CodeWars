@@ -22,8 +22,8 @@ function findMiddle(str) {
   }
 }
 
-//console.log(findMiddle('s7d8jd9'), 0);
-//console.log(findMiddle('58jd9fgh/fgh6s.,sdf'), 16);
-//console.log(findMiddle([ 1, 2, 3, 4, 5, 6 ]), 2);
-//console.log(findMiddle('         '), -1);
+console.log(findMiddle('s7d8jd9'), 0);
+console.log(findMiddle('58jd9fgh/fgh6s.,sdf'), 16);
+console.log(findMiddle([ 1, 2, 3, 4, 5, 6 ]), 2);
+console.log(findMiddle('         '), -1);
 console.log(findMiddle('asd.fasd.gasdfgsdf1gh-sdfghsdfg/asdfga=sdfg'), 1);
