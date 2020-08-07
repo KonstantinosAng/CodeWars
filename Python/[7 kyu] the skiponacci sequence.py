@@ -13,14 +13,7 @@ def fib(n):
   return value
 
 def skiponacci(n):
-  rv = []
-  for i in range(n):
-    if i%2 != 0:
-      rv.append('skip')
-    else:
-      rv.append(str(fib(i)))
-  return ' '.join([x for x in rv])
-
+  return ' '.join([str(fib(i)) if i%2 == 0 else 'skip' for i in range(n)])
 
 from TestFunction import Test
 Test = Test(None)
