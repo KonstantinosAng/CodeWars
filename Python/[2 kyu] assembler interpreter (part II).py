@@ -99,7 +99,23 @@ def execute_command(command):
 def call_function(function_name):
   global cmp_output, memory, output, code
   i = 0
+  while i < len(code.splitlines()):
+    if function_name in code.splitlines()[i] and code.splitlines()[i].split()[0] not in ['call', 'jl', 'jle', 'jmp', 'jne', 'je', 'jge', 'jg']:
+      while code.splitlines()[i+1][:4] == "    ":
+        if code.splitlines()[i+1].strip() == 'ret':
+          i = len(code.splitlines())
+          break
+        print(code.splitlines()[i+1])
+        execute_command(code.splitlines()[i+1])
+        i += 1
+    i += 1
   
+def remove_comments(command):
+  if ';' in command:
+    command = command[:command.find(';')]
+  if command == "":
+    return False
+  return True
 
 def assembler_interpreter(program, recur=None):
   global cmp_output, memory, output, code
@@ -109,11 +125,9 @@ def assembler_interpreter(program, recur=None):
   endNotFound = True
   program = program.splitlines()
   while pointer < len(program):
-    if ';' in program[pointer]:
-      program[pointer] = program[pointer][:program[pointer].find(';')]
-      if program[pointer] == "":
-        pointer += 1
-        continue
+    if not remove_comments(program[pointer]):
+      pointer += 1
+      continue
     cmd = program[pointer].strip().split(" ")
     command = cmd[0]
     if command == 'mov':
