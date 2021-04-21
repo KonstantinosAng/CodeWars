@@ -172,6 +172,7 @@ def remove_comments(command):
 
 def assembler_interpreter(program):
   global cmp_output, memory, output, code, retFound, Error
+  Error = False
   cmp_output = {}
   memory = {}
   output = ''
