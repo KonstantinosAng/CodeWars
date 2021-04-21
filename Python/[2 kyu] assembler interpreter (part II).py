@@ -6,6 +6,7 @@ cmp_output = {}
 memory = {}
 output = ''
 code = ''
+functions = {}
 
 def execute_command(command):
   global cmp_output, memory, output, code
@@ -147,12 +148,13 @@ def call_function(function_name):
       while code.splitlines()[i+1][:4] == "    ":
         if code.splitlines()[i+1].strip() == 'ret':
           i = len(code.splitlines())
+          functions[function_name] = True
           break
         ret, command = remove_comments(code.splitlines()[i+1])
         if ret:
           execute_command(command)
         i += 1
-        if i + 1 >= len(code.splitlines()): 
+        if i + 1 >= len(code.splitlines()):
           break
     i += 1
   return
@@ -179,6 +181,9 @@ def assembler_interpreter(program, recur=None):
     command = cmd[0]
     execute_command(program[pointer])
     if command == 'end':
+      for func in functions:
+        if not functions[func]:
+          return -1
       return output
     elif command == 'ret':
       return
