@@ -6,12 +6,14 @@ cmp_output = {}
 memory = {}
 output = ''
 code = ''
-functions = {}
+retFound = False
+Error = False
 
 def execute_command(command):
-  global cmp_output, memory, output, code
+  global cmp_output, memory, output, code, retFound
   cmd = command.strip().split(" ")[0]
-  print(command, memory, output)
+  if retFound:
+    return
   if cmd == 'mov':
     tmp_command = command.strip()[3:].strip()
     x, y = tmp_command.split(",")[0].strip(), tmp_command.split(",")[1].strip()
@@ -134,6 +136,7 @@ def execute_command(command):
     call_function(function_name)
     return
   elif cmd == 'ret':
+    retFound = True
     return
   elif cmd == 'end':
     return output
@@ -141,20 +144,21 @@ def execute_command(command):
     return
   
 def call_function(function_name):
-  global cmp_output, memory, output, code
+  global cmp_output, memory, output, code, retFound, Error
   i = 0
   while i < len(code.splitlines()):
     if function_name in code.splitlines()[i] and code.splitlines()[i].split()[0] not in ['call', 'jl', 'jle', 'jmp', 'jne', 'je', 'jge', 'jg']:
-      while code.splitlines()[i+1][:4] == "    ":
+      while code.splitlines()[i+1] != "" and ":" not in code.splitlines()[i+1].strip()[-1]:
         if code.splitlines()[i+1].strip() == 'ret':
           i = len(code.splitlines())
-          functions[function_name] = True
+          retFound = True
           break
         ret, command = remove_comments(code.splitlines()[i+1])
         if ret:
           execute_command(command)
         i += 1
         if i + 1 >= len(code.splitlines()):
+          Error = True if code.splitlines()[i].strip() != 'ret' else False
           break
     i += 1
   return
@@ -166,13 +170,16 @@ def remove_comments(command):
     return False, command
   return True, command
 
-def assembler_interpreter(program, recur=None):
-  global cmp_output, memory, output, code
-  if not recur:
-    code = (program + '.')[:-1]
+def assembler_interpreter(program):
+  global cmp_output, memory, output, code, retFound, Error
+  cmp_output = {}
+  memory = {}
+  output = ''
+  code = (program + '.')[:-1]
   pointer = 0
   program = program.splitlines()
-  while pointer < len(program):
+  while pointer < len(program) and not Error:
+    retFound = False
     ret, program[pointer] = remove_comments(program[pointer])
     if not ret:
       pointer += 1
@@ -181,11 +188,10 @@ def assembler_interpreter(program, recur=None):
     command = cmd[0]
     execute_command(program[pointer])
     if command == 'end':
-      for func in functions:
-        if not functions[func]:
-          return -1
+      if memory == {}: return -1
       return output
     elif command == 'ret':
+      retFound = True
       return
     pointer += 1
   return -1
@@ -362,22 +368,136 @@ test = Test(None)
 
 """ ============================================================== """
 
-program_fail = '''
-call  func1
+# program_fail = '''
+# call  func1
+# call  print
+# end
+
+# func1:
+#     call  func2
+#     ret
+
+# func2:
+#     ret
+
+# print:
+#     msg 'This program should return -1'
+# '''
+
+# test.assert_equals(assembler_interpreter(program_fail), -1)
+
+""" ============================================================== """
+
+program_power = '''
+mov   a, 2            ; value1
+mov   b, 10           ; value2
+mov   c, a            ; temp1
+mov   d, b            ; temp2
+call  proc_func
 call  print
 end
 
-func1:
-    call  func2
-    ret
+proc_func:
+    cmp   d, 1
+    je    continue
+    mul   c, a
+    dec   d
+    call  proc_func
 
-func2:
+continue:
     ret
 
 print:
-    msg 'This program should return -1'
+    msg a, '^', b, ' = ', c
+    ret
 '''
 
-test.assert_equals(assembler_interpreter(program_fail), -1)
+test.assert_equals(assembler_interpreter(program_power), '2^10 = 1024')
+
 
 """ ============================================================== """
+
+# program='''
+# mov b, 12    ; instruction mov b, 12
+# mov o, 1    ; instruction mov o, 1
+# call func
+# msg 'Random result: ', q
+# end
+
+# func:
+# 	cmp b, o
+# 	je exit
+# 	mov q, b
+# 	add q, o
+# 	ret
+
+# ; Do nothing
+# exit:
+# 	msg 'Do nothing'
+# '''
+
+# test.assert_equals(assembler_interpreter(program), 'Random result: 13')
+
+""" ============================================================== """
+
+# program='''
+# mov g, 6   ; instruction mov g, 6
+# mov m, 2   ; instruction mov m, 2
+# call func
+# msg 'Random result: ', i
+# end
+
+# func:
+# 	cmp g, m
+# 	je exit
+# 	mov i, g
+# 	add i, m
+# 	ret
+# ; Do nothing
+# exit:
+# 	msg 'Do nothing'
+# '''
+
+# test.assert_equals(assembler_interpreter(program), 'Random result: 8')
+
+""" ============================================================== """
+
+# program='''
+# mov t, 8   ; instruction mov t, 8
+# mov h, 5   ; instruction mov h, 5
+# call func
+# msg 'Random result: ', u
+# end
+
+# func:
+# 	cmp t, h
+# 	jne exit
+# 	mov u, t
+# 	div u, h
+# 	ret
+# ; Do nothing
+# exit:
+# 	msg 'Do nothing'
+# '''
+# test.assert_equals(assembler_interpreter(program), -1)
+
+""" ============================================================== """
+
+# program='''
+# mov b, 8   ; instruction mov b, 8
+# mov o, 7   ; instruction mov o, 7
+# call func
+# msg 'Random result: ', e
+# end
+
+# func:
+# 	cmp b, o
+# 	jg exit
+# 	mov e, b
+# 	mul e, o
+# 	ret
+# ; Do nothing
+# exit:
+# 	msg 'Do nothing'
+# '''
+# test.assert_equals(assembler_interpreter(program), -1)
