@@ -1,4 +1,4 @@
 {
   "python.linting.enabled": true,
-  "python.pythonPath": "C:\\Users\\kwsta\\anaconda3\\python.exe"
+  "python.defaultInterpreterPath": "C:\\Users\\kwsta\\anaconda3\\python.exe"
 }
