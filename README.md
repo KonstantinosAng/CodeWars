@@ -7,6 +7,6 @@
   Profile: [CyberBoy](https://www.codewars.com/users/CyberBoy)
 
   <a href="https://www.codewars.com/users/CyberBoy" target="_blank">
-    <img src="https://www.codewars.com/users/CyberBoy/badges/large" alt="Codewars Warrior" width="250px"/>
+    <img src="https://www.codewars.com/users/CyberBoy/badges/large" alt="Codewars Warrior" width="500px"/>
   </a>
 </div>
