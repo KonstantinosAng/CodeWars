@@ -3,7 +3,18 @@
 from TestFunction import Test
 
 def group_by_commas(n):
-  pass
+  pointer = 1
+  comma = 0
+  ret = ""
+  n = str(n)
+  while pointer <= len(n):
+    ret = n[-pointer] + ret
+    pointer += 1
+    comma += 1
+    if comma == 3 and pointer != len(n) + 1:
+      ret = ',' + ret
+      comma = 0
+  return ret
 
 
 
