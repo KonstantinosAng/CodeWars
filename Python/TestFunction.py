@@ -10,10 +10,16 @@ class Test:
   def it(self, *args, **kwargs):
     for arg in args:
       if type(arg) == str:
+        print("")
         print(arg)
+        print("-"*len(arg))
 
   def describe(self, *args, **kwargs):
-    pass
+    for arg in args:
+      if type(arg) == str:
+        print("")
+        print(arg)
+        print("-"*len(arg))
 
   def assert_result(self, *args):
     print("Test Case {} resulted in {} {}". format(self.test_case, args[0], "✅" if args[0]==self.test_case else "❌"))
