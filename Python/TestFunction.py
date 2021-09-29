@@ -8,7 +8,9 @@ class Test:
     self.result = None
 
   def it(self, *args, **kwargs):
-    pass
+    for arg in args:
+      if type(arg) == str:
+        print(arg)
 
   def describe(self, *args, **kwargs):
     pass
