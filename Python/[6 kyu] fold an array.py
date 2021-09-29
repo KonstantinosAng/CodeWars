@@ -1,17 +1,25 @@
 # see https://www.codewars.com/kata/57ea70aa5500adfe8a000110/train/python
 
 from TestFunction import Test
+import math
 
 def fold(arr):
-  if len(arr) % 2 == 0:
-    pass
-  else:
-    pass
+  if len(arr) == 1: return arr
+  ret = []
+  start = 0
+  end = len(arr)-1
+  while start != end and start < end:
+    ret.append(arr[start] + arr[end])
+    start += 1
+    end -= 1
+  if len(arr) % 2:
+    ret.append(arr[math.floor(len(arr) / 2)])
+  return ret
 
 def fold_array(array, runs):
   for i in range(runs):
-    arr = fold(array)
-  pass
+    array = fold(array)
+  return array
 
 test = Test(None)
 arr = [1, 2, 3, 4, 5]
