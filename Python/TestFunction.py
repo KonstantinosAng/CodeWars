@@ -27,6 +27,9 @@ class Test:
   def assert_equals(self, *args, **kwargs):
     print("Test Case {} resulted in {} {}". format(args[1], args[0], "✅" if args[0]==args[1] else "❌"))
 
+  def expect(self, *args, **kwargs):
+    print("Test Case {} resulted in {}". format(args[0], "✅" if args[0] else "❌"))
+
 
 def Tester(test_case, *args, **kwargs):
 
