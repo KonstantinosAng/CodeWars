@@ -13,4 +13,4 @@ test = Test(None)
 
 test.assert_equals(add(1), 1)
 test.assert_equals(add(1)(2), 3)
-# test.assert_equals(add(1)(2)(3), 6)
+test.assert_equals(add(1)(2)(3), 6)
