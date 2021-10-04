@@ -1,31 +1,5 @@
 # see https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/train/python
 
-# def pick_peaks(arr):
-#   retDictionary = {"pos": [], "peaks": []}
-#   counter = 1
-#   while counter < len(arr) - 1:
-#     possiblePeak = arr[counter]
-#     if possiblePeak >= arr[counter - 1] and possiblePeak >= arr[counter + 1] and arr[counter - 1] != arr[counter + 1]: 
-#       tempCounter = 1
-#       end=False
-#       print(counter)
-#       if possiblePeak == arr[counter + 1] or possiblePeak == arr[counter - 1]:
-#         while possiblePeak == arr[counter + tempCounter]:
-#           if counter + tempCounter == len(arr) - 1: 
-#             end=True
-#             break
-#           tempCounter += 1
-#         print(end, possiblePeak, arr[counter + tempCounter], arr[counter - 1])
-#         if not end and possiblePeak > arr[counter + tempCounter] and possiblePeak > arr[counter - 1]:
-#           retDictionary['pos'].append(counter)
-#           retDictionary['peaks'].append(possiblePeak)  
-#           counter += tempCounter
-#       else:
-#         retDictionary['pos'].append(counter)
-#         retDictionary['peaks'].append(possiblePeak)
-#     counter += 1
-#   return retDictionary
-
 def pick_peaks(arr):
   retDictionary = {"pos": [], "peaks": []}
   counter = 1
