@@ -38,7 +38,7 @@ if __name__ == '__main__':
     """
     for file in files:
       kataTemplate += f"""
-* [{file}]({folder}/{file.replace(" ", "%20%")})
+* [{file}](./{folder}/{file.replace(" ", "%20%")})
 """
   
   readme = "".join([constTemplate, kataTemplate])
