@@ -32,14 +32,14 @@ if __name__ == '__main__':
   kataTemplate = ""  
   for folder, files in dirs.items():
     kataTemplate += f"""
-    
+
 ## {folder}
-    
+
     """
     for file in files:
       kataTemplate += f"""
-* [{file}]({folder}/{file})
-      """
+* [{file}]({folder}/{file.replace(" ", "%20%")})
+"""
   
   readme = "".join([constTemplate, kataTemplate])
   if os.path.exists(os.path.join(ABSOLUTE_FILE_PATH, 'README.md')): os.remove(os.path.join(ABSOLUTE_FILE_PATH, 'README.md'))
