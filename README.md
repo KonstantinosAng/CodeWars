@@ -19,534 +19,534 @@
 ## Javascript
 
     
-* [[4 kyu] permutations.js](./Javascript/[4%20%kyu]%20%permutations.js)
+* [[4 kyu] permutations.js](./Javascript/[4%20kyu]%20permutations.js)
 
-* [[5 kyu] Human Readable Time.js](./Javascript/[5%20%kyu]%20%Human%20%Readable%20%Time.js)
+* [[5 kyu] Human Readable Time.js](./Javascript/[5%20kyu]%20Human%20Readable%20Time.js)
 
-* [[5 kyu] mixbonacci.js](./Javascript/[5%20%kyu]%20%mixbonacci.js)
+* [[5 kyu] mixbonacci.js](./Javascript/[5%20kyu]%20mixbonacci.js)
 
-* [[5 kyu] Pete, the baker.js](./Javascript/[5%20%kyu]%20%Pete,%20%the%20%baker.js)
+* [[5 kyu] Pete, the baker.js](./Javascript/[5%20kyu]%20Pete,%20the%20baker.js)
 
-* [[5 kyu] phone directory.js](./Javascript/[5%20%kyu]%20%phone%20%directory.js)
+* [[5 kyu] phone directory.js](./Javascript/[5%20kyu]%20phone%20directory.js)
 
-* [[5 kyu] RGB To Hex Conversion.js](./Javascript/[5%20%kyu]%20%RGB%20%To%20%Hex%20%Conversion.js)
+* [[5 kyu] RGB To Hex Conversion.js](./Javascript/[5%20kyu]%20RGB%20To%20Hex%20Conversion.js)
 
-* [[6 kyu] Basic compression.js](./Javascript/[6%20%kyu]%20%Basic%20%compression.js)
+* [[6 kyu] Basic compression.js](./Javascript/[6%20kyu]%20Basic%20compression.js)
 
-* [[6 kyu] binaries.js](./Javascript/[6%20%kyu]%20%binaries.js)
+* [[6 kyu] binaries.js](./Javascript/[6%20kyu]%20binaries.js)
 
-* [[6 kyu] Bit Counting.js](./Javascript/[6%20%kyu]%20%Bit%20%Counting.js)
+* [[6 kyu] Bit Counting.js](./Javascript/[6%20kyu]%20Bit%20Counting.js)
 
-* [[6 kyu] Build Tower.js](./Javascript/[6%20%kyu]%20%Build%20%Tower.js)
+* [[6 kyu] Build Tower.js](./Javascript/[6%20kyu]%20Build%20Tower.js)
 
-* [[6 kyu] christmas tree.js](./Javascript/[6%20%kyu]%20%christmas%20%tree.js)
+* [[6 kyu] christmas tree.js](./Javascript/[6%20kyu]%20christmas%20tree.js)
 
-* [[6 kyu] Consecutive strings.js](./Javascript/[6%20%kyu]%20%Consecutive%20%strings.js)
+* [[6 kyu] Consecutive strings.js](./Javascript/[6%20kyu]%20Consecutive%20strings.js)
 
-* [[6 kyu] Detect Pangram.js](./Javascript/[6%20%kyu]%20%Detect%20%Pangram.js)
+* [[6 kyu] Detect Pangram.js](./Javascript/[6%20kyu]%20Detect%20Pangram.js)
 
-* [[6 kyu] Find the odd int.js](./Javascript/[6%20%kyu]%20%Find%20%the%20%odd%20%int.js)
+* [[6 kyu] Find the odd int.js](./Javascript/[6%20kyu]%20Find%20the%20odd%20int.js)
 
-* [[6 kyu] Find The Parity Outlier.js](./Javascript/[6%20%kyu]%20%Find%20%The%20%Parity%20%Outlier.js)
+* [[6 kyu] Find The Parity Outlier.js](./Javascript/[6%20kyu]%20Find%20The%20Parity%20Outlier.js)
 
-* [[6 kyu] html dynamic color string generation.js](./Javascript/[6%20%kyu]%20%html%20%dynamic%20%color%20%string%20%generation.js)
+* [[6 kyu] html dynamic color string generation.js](./Javascript/[6%20kyu]%20html%20dynamic%20color%20string%20generation.js)
 
-* [[6 kyu] Meeting.js](./Javascript/[6%20%kyu]%20%Meeting.js)
+* [[6 kyu] Meeting.js](./Javascript/[6%20kyu]%20Meeting.js)
 
-* [[6 kyu] Playing with digits.js](./Javascript/[6%20%kyu]%20%Playing%20%with%20%digits.js)
+* [[6 kyu] Playing with digits.js](./Javascript/[6%20kyu]%20Playing%20with%20digits.js)
 
-* [[6 kyu] Polybius square cipher - encode.js](./Javascript/[6%20%kyu]%20%Polybius%20%square%20%cipher%20%-%20%encode.js)
+* [[6 kyu] Polybius square cipher - encode.js](./Javascript/[6%20kyu]%20Polybius%20square%20cipher%20-%20encode.js)
 
-* [[6 kyu] reverse or rotate.js](./Javascript/[6%20%kyu]%20%reverse%20%or%20%rotate.js)
+* [[6 kyu] reverse or rotate.js](./Javascript/[6%20kyu]%20reverse%20or%20rotate.js)
 
-* [[6 kyu] street fighter 2 - character selection.js](./Javascript/[6%20%kyu]%20%street%20%fighter%20%2%20%-%20%character%20%selection.js)
+* [[6 kyu] street fighter 2 - character selection.js](./Javascript/[6%20kyu]%20street%20fighter%202%20-%20character%20selection.js)
 
-* [[6 kyu] The Walker.js](./Javascript/[6%20%kyu]%20%The%20%Walker.js)
+* [[6 kyu] The Walker.js](./Javascript/[6%20kyu]%20The%20Walker.js)
 
-* [[6 kyu] uncollapse digits.js](./Javascript/[6%20%kyu]%20%uncollapse%20%digits.js)
+* [[6 kyu] uncollapse digits.js](./Javascript/[6%20kyu]%20uncollapse%20digits.js)
 
-* [[6 kyu] Write Number in Expanded Form.js](./Javascript/[6%20%kyu]%20%Write%20%Number%20%in%20%Expanded%20%Form.js)
+* [[6 kyu] Write Number in Expanded Form.js](./Javascript/[6%20kyu]%20Write%20Number%20in%20Expanded%20Form.js)
 
-* [[7 kyu] bob's jump.js](./Javascript/[7%20%kyu]%20%bob's%20%jump.js)
+* [[7 kyu] bob's jump.js](./Javascript/[7%20kyu]%20bob's%20jump.js)
 
-* [[7 kyu] Categorize New Member.js](./Javascript/[7%20%kyu]%20%Categorize%20%New%20%Member.js)
+* [[7 kyu] Categorize New Member.js](./Javascript/[7%20kyu]%20Categorize%20New%20Member.js)
 
-* [[7 kyu] Complementary DNA.js](./Javascript/[7%20%kyu]%20%Complementary%20%DNA.js)
+* [[7 kyu] Complementary DNA.js](./Javascript/[7%20kyu]%20Complementary%20DNA.js)
 
-* [[7 kyu] consecutive letters.js](./Javascript/[7%20%kyu]%20%consecutive%20%letters.js)
+* [[7 kyu] consecutive letters.js](./Javascript/[7%20kyu]%20consecutive%20letters.js)
 
-* [[7 kyu] Count the digit.js](./Javascript/[7%20%kyu]%20%Count%20%the%20%digit.js)
+* [[7 kyu] Count the digit.js](./Javascript/[7%20kyu]%20Count%20the%20digit.js)
 
-* [[7 kyu] date formatter.js](./Javascript/[7%20%kyu]%20%date%20%formatter.js)
+* [[7 kyu] date formatter.js](./Javascript/[7%20kyu]%20date%20formatter.js)
 
-* [[7 kyu] Descending Order.js](./Javascript/[7%20%kyu]%20%Descending%20%Order.js)
+* [[7 kyu] Descending Order.js](./Javascript/[7%20kyu]%20Descending%20Order.js)
 
-* [[7 kyu] esreveR.js](./Javascript/[7%20%kyu]%20%esreveR.js)
+* [[7 kyu] esreveR.js](./Javascript/[7%20kyu]%20esreveR.js)
 
-* [[7 kyu] Exes and Ohs.js](./Javascript/[7%20%kyu]%20%Exes%20%and%20%Ohs.js)
+* [[7 kyu] Exes and Ohs.js](./Javascript/[7%20kyu]%20Exes%20and%20Ohs.js)
 
-* [[7 kyu] find all no-consecutive numer.js](./Javascript/[7%20%kyu]%20%find%20%all%20%no-consecutive%20%numer.js)
+* [[7 kyu] find all no-consecutive numer.js](./Javascript/[7%20kyu]%20find%20all%20no-consecutive%20numer.js)
 
-* [[7 kyu] Find the divisors!.js](./Javascript/[7%20%kyu]%20%Find%20%the%20%divisors!.js)
+* [[7 kyu] Find the divisors!.js](./Javascript/[7%20kyu]%20Find%20the%20divisors!.js)
 
-* [[7 kyu] find the middle of the product.js](./Javascript/[7%20%kyu]%20%find%20%the%20%middle%20%of%20%the%20%product.js)
+* [[7 kyu] find the middle of the product.js](./Javascript/[7%20kyu]%20find%20the%20middle%20of%20the%20product.js)
 
-* [[7 kyu] is there an odd bit.js](./Javascript/[7%20%kyu]%20%is%20%there%20%an%20%odd%20%bit.js)
+* [[7 kyu] is there an odd bit.js](./Javascript/[7%20kyu]%20is%20there%20an%20odd%20bit.js)
 
-* [[7 kyu] last survivor.js](./Javascript/[7%20%kyu]%20%last%20%survivor.js)
+* [[7 kyu] last survivor.js](./Javascript/[7%20kyu]%20last%20survivor.js)
 
-* [[7 kyu] Regex validate PIN code.js](./Javascript/[7%20%kyu]%20%Regex%20%validate%20%PIN%20%code.js)
+* [[7 kyu] Regex validate PIN code.js](./Javascript/[7%20kyu]%20Regex%20validate%20PIN%20code.js)
 
-* [[7 kyu] Round up to the next multiple of 5.js](./Javascript/[7%20%kyu]%20%Round%20%up%20%to%20%the%20%next%20%multiple%20%of%20%5.js)
+* [[7 kyu] Round up to the next multiple of 5.js](./Javascript/[7%20kyu]%20Round%20up%20to%20the%20next%20multiple%20of%205.js)
 
-* [[7 kyu] scalling squared strings.js](./Javascript/[7%20%kyu]%20%scalling%20%squared%20%strings.js)
+* [[7 kyu] scalling squared strings.js](./Javascript/[7%20kyu]%20scalling%20squared%20strings.js)
 
-* [[7 kyu] Sentences should start with capital letter.js](./Javascript/[7%20%kyu]%20%Sentences%20%should%20%start%20%with%20%capital%20%letter.js)
+* [[7 kyu] Sentences should start with capital letter.js](./Javascript/[7%20kyu]%20Sentences%20should%20start%20with%20capital%20letter.js)
 
-* [[7 kyu] simple string reversal ii.js](./Javascript/[7%20%kyu]%20%simple%20%string%20%reversal%20%ii.js)
+* [[7 kyu] simple string reversal ii.js](./Javascript/[7%20kyu]%20simple%20string%20reversal%20ii.js)
 
-* [[7 kyu] Sort the Vowels!.js](./Javascript/[7%20%kyu]%20%Sort%20%the%20%Vowels!.js)
+* [[7 kyu] Sort the Vowels!.js](./Javascript/[7%20kyu]%20Sort%20the%20Vowels!.js)
 
-* [[7 kyu] Square Every Digit.js](./Javascript/[7%20%kyu]%20%Square%20%Every%20%Digit.js)
+* [[7 kyu] Square Every Digit.js](./Javascript/[7%20kyu]%20Square%20Every%20Digit.js)
 
-* [[7 kyu] sum even numbers.js](./Javascript/[7%20%kyu]%20%sum%20%even%20%numbers.js)
+* [[7 kyu] sum even numbers.js](./Javascript/[7%20kyu]%20sum%20even%20numbers.js)
 
-* [[8 kyu] L1 Bartender, drinks!.js](./Javascript/[8%20%kyu]%20%L1%20%Bartender,%20%drinks!.js)
+* [[8 kyu] L1 Bartender, drinks!.js](./Javascript/[8%20kyu]%20L1%20Bartender,%20drinks!.js)
 
-* [[8 kyu] Quarter of the year.js](./Javascript/[8%20%kyu]%20%Quarter%20%of%20%the%20%year.js)
+* [[8 kyu] Quarter of the year.js](./Javascript/[8%20kyu]%20Quarter%20of%20the%20year.js)
 
 
 ## Python
 
     
-* [[2 kyu] assembler interpreter (part II).py](./Python/[2%20%kyu]%20%assembler%20%interpreter%20%(part%20%II).py)
+* [[2 kyu] assembler interpreter (part II).py](./Python/[2%20kyu]%20assembler%20interpreter%20(part%20II).py)
 
-* [[2 kyu] One Line Task Circle Intersection.py](./Python/[2%20%kyu]%20%One%20%Line%20%Task%20%Circle%20%Intersection.py)
+* [[2 kyu] One Line Task Circle Intersection.py](./Python/[2%20kyu]%20One%20Line%20Task%20Circle%20Intersection.py)
 
-* [[3 kyu] Prime Streaming (PG - 13).py](./Python/[3%20%kyu]%20%Prime%20%Streaming%20%(PG%20%-%20%13).py)
+* [[3 kyu] Prime Streaming (PG - 13).py](./Python/[3%20kyu]%20Prime%20Streaming%20(PG%20-%2013).py)
 
-* [[3 kyu] Rail Fence Cipher Encoding and Decoding.py](./Python/[3%20%kyu]%20%Rail%20%Fence%20%Cipher%20%Encoding%20%and%20%Decoding.py)
+* [[3 kyu] Rail Fence Cipher Encoding and Decoding.py](./Python/[3%20kyu]%20Rail%20Fence%20Cipher%20Encoding%20and%20Decoding.py)
 
-* [[3 kyu] The Millionth Fibonacci Kata.py](./Python/[3%20%kyu]%20%The%20%Millionth%20%Fibonacci%20%Kata.py)
+* [[3 kyu] The Millionth Fibonacci Kata.py](./Python/[3%20kyu]%20The%20Millionth%20Fibonacci%20Kata.py)
 
-* [[4 kyu] Brainfuck Translator.py](./Python/[4%20%kyu]%20%Brainfuck%20%Translator.py)
+* [[4 kyu] Brainfuck Translator.py](./Python/[4%20kyu]%20Brainfuck%20Translator.py)
 
-* [[4 kyu] Codewars style ranking system.py](./Python/[4%20%kyu]%20%Codewars%20%style%20%ranking%20%system.py)
+* [[4 kyu] Codewars style ranking system.py](./Python/[4%20kyu]%20Codewars%20style%20ranking%20system.py)
 
-* [[4 kyu] Human readable duration format.py](./Python/[4%20%kyu]%20%Human%20%readable%20%duration%20%format.py)
+* [[4 kyu] Human readable duration format.py](./Python/[4%20kyu]%20Human%20readable%20duration%20format.py)
 
-* [[4 kyu] Most frequently used words in a text.py](./Python/[4%20%kyu]%20%Most%20%frequently%20%used%20%words%20%in%20%a%20%text.py)
+* [[4 kyu] Most frequently used words in a text.py](./Python/[4%20kyu]%20Most%20frequently%20used%20words%20in%20a%20text.py)
 
-* [[4 kyu] next bigger number with the same digits.py](./Python/[4%20%kyu]%20%next%20%bigger%20%number%20%with%20%the%20%same%20%digits.py)
+* [[4 kyu] next bigger number with the same digits.py](./Python/[4%20kyu]%20next%20bigger%20number%20with%20the%20same%20digits.py)
 
-* [[4 kyu] next smaller number with the same digits.py](./Python/[4%20%kyu]%20%next%20%smaller%20%number%20%with%20%the%20%same%20%digits.py)
+* [[4 kyu] next smaller number with the same digits.py](./Python/[4%20kyu]%20next%20smaller%20number%20with%20the%20same%20digits.py)
 
-* [[4 kyu] parseInt() reloaded.py](./Python/[4%20%kyu]%20%parseInt()%20%reloaded.py)
+* [[4 kyu] parseInt() reloaded.py](./Python/[4%20kyu]%20parseInt()%20reloaded.py)
 
-* [[4 kyu] Range Extraction.py](./Python/[4%20%kyu]%20%Range%20%Extraction.py)
+* [[4 kyu] Range Extraction.py](./Python/[4%20kyu]%20Range%20Extraction.py)
 
-* [[4 kyu] Snail.py](./Python/[4%20%kyu]%20%Snail.py)
+* [[4 kyu] Snail.py](./Python/[4%20kyu]%20Snail.py)
 
-* [[4 kyu] strings mix.py](./Python/[4%20%kyu]%20%strings%20%mix.py)
+* [[4 kyu] strings mix.py](./Python/[4%20kyu]%20strings%20mix.py)
 
-* [[4 kyu] Strip Comments.py](./Python/[4%20%kyu]%20%Strip%20%Comments.py)
+* [[4 kyu] Strip Comments.py](./Python/[4%20kyu]%20Strip%20Comments.py)
 
-* [[4 kyu] Sum of Intervals.py](./Python/[4%20%kyu]%20%Sum%20%of%20%Intervals.py)
+* [[4 kyu] Sum of Intervals.py](./Python/[4%20kyu]%20Sum%20of%20Intervals.py)
 
-* [[4 kyu] Text align justify.py](./Python/[4%20%kyu]%20%Text%20%align%20%justify.py)
+* [[4 kyu] Text align justify.py](./Python/[4%20kyu]%20Text%20align%20justify.py)
 
-* [[5 kyu] A chain adding function.py](./Python/[5%20%kyu]%20%A%20%chain%20%adding%20%function.py)
+* [[5 kyu] A chain adding function.py](./Python/[5%20kyu]%20A%20chain%20adding%20function.py)
 
-* [[5 kyu] binary simulation.py](./Python/[5%20%kyu]%20%binary%20%simulation.py)
+* [[5 kyu] binary simulation.py](./Python/[5%20kyu]%20binary%20simulation.py)
 
-* [[5 kyu] calculating with Functions.py](./Python/[5%20%kyu]%20%calculating%20%with%20%Functions.py)
+* [[5 kyu] calculating with Functions.py](./Python/[5%20kyu]%20calculating%20with%20Functions.py)
 
-* [[5 kyu] closest and smallest.py](./Python/[5%20%kyu]%20%closest%20%and%20%smallest.py)
+* [[5 kyu] closest and smallest.py](./Python/[5%20kyu]%20closest%20and%20smallest.py)
 
-* [[5 kyu] convert a hex string to rgb.py](./Python/[5%20%kyu]%20%convert%20%a%20%hex%20%string%20%to%20%rgb.py)
+* [[5 kyu] convert a hex string to rgb.py](./Python/[5%20kyu]%20convert%20a%20hex%20string%20to%20rgb.py)
 
-* [[5 kyu] Did I Finish my Sudoku.py](./Python/[5%20%kyu]%20%Did%20%I%20%Finish%20%my%20%Sudoku.py)
+* [[5 kyu] Did I Finish my Sudoku.py](./Python/[5%20kyu]%20Did%20I%20Finish%20my%20Sudoku.py)
 
-* [[5 kyu] Double Cola.py](./Python/[5%20%kyu]%20%Double%20%Cola.py)
+* [[5 kyu] Double Cola.py](./Python/[5%20kyu]%20Double%20Cola.py)
 
-* [[5 kyu] emirps.py](./Python/[5%20%kyu]%20%emirps.py)
+* [[5 kyu] emirps.py](./Python/[5%20kyu]%20emirps.py)
 
-* [[5 kyu] extract the domain name from a URL.py](./Python/[5%20%kyu]%20%extract%20%the%20%domain%20%name%20%from%20%a%20%URL.py)
+* [[5 kyu] extract the domain name from a URL.py](./Python/[5%20kyu]%20extract%20the%20domain%20name%20from%20a%20URL.py)
 
-* [[5 kyu] field chained HTML formatiing.py](./Python/[5%20%kyu]%20%field%20%chained%20%HTML%20%formatiing.py)
+* [[5 kyu] field chained HTML formatiing.py](./Python/[5%20kyu]%20field%20chained%20HTML%20formatiing.py)
 
-* [[5 kyu] find the smallest.py](./Python/[5%20%kyu]%20%find%20%the%20%smallest.py)
+* [[5 kyu] find the smallest.py](./Python/[5%20kyu]%20find%20the%20smallest.py)
 
-* [[5 kyu] first non-repeating character.py](./Python/[5%20%kyu]%20%first%20%non-repeating%20%character.py)
+* [[5 kyu] first non-repeating character.py](./Python/[5%20kyu]%20first%20non-repeating%20character.py)
 
-* [[5 kyu] going to zero or to infinity.py](./Python/[5%20%kyu]%20%going%20%to%20%zero%20%or%20%to%20%infinity.py)
+* [[5 kyu] going to zero or to infinity.py](./Python/[5%20kyu]%20going%20to%20zero%20or%20to%20infinity.py)
 
-* [[5 kyu] Greed is Good.py](./Python/[5%20%kyu]%20%Greed%20%is%20%Good.py)
+* [[5 kyu] Greed is Good.py](./Python/[5%20kyu]%20Greed%20is%20Good.py)
 
-* [[5 kyu] int32 to IPv4.py](./Python/[5%20%kyu]%20%int32%20%to%20%IPv4.py)
+* [[5 kyu] int32 to IPv4.py](./Python/[5%20kyu]%20int32%20to%20IPv4.py)
 
-* [[5 kyu] integers recreation one.py](./Python/[5%20%kyu]%20%integers%20%recreation%20%one.py)
+* [[5 kyu] integers recreation one.py](./Python/[5%20kyu]%20integers%20recreation%20one.py)
 
-* [[5 kyu] Last digit of a large number.py](./Python/[5%20%kyu]%20%Last%20%digit%20%of%20%a%20%large%20%number.py)
+* [[5 kyu] Last digit of a large number.py](./Python/[5%20kyu]%20Last%20digit%20of%20a%20large%20number.py)
 
-* [[5 kyu] LZ78 compression.py](./Python/[5%20%kyu]%20%LZ78%20%compression.py)
+* [[5 kyu] LZ78 compression.py](./Python/[5%20kyu]%20LZ78%20compression.py)
 
-* [[5 kyu] maximum subarray sum.py](./Python/[5%20%kyu]%20%maximum%20%subarray%20%sum.py)
+* [[5 kyu] maximum subarray sum.py](./Python/[5%20kyu]%20maximum%20subarray%20sum.py)
 
-* [[5 kyu] mongodb objectid.py](./Python/[5%20%kyu]%20%mongodb%20%objectid.py)
+* [[5 kyu] mongodb objectid.py](./Python/[5%20kyu]%20mongodb%20objectid.py)
 
-* [[5 kyu] moving zeros to the end.py](./Python/[5%20%kyu]%20%moving%20%zeros%20%to%20%the%20%end.py)
+* [[5 kyu] moving zeros to the end.py](./Python/[5%20kyu]%20moving%20zeros%20to%20the%20end.py)
 
-* [[5 kyu] My smallest code interpreter (aka Brainfk).py](./Python/[5%20%kyu]%20%My%20%smallest%20%code%20%interpreter%20%(aka%20%Brainfk).py)
+* [[5 kyu] My smallest code interpreter (aka Brainfk).py](./Python/[5%20kyu]%20My%20smallest%20code%20interpreter%20(aka%20Brainfk).py)
 
-* [[5 kyu] ninety nine thousand nine hundred ninety nine.py](./Python/[5%20%kyu]%20%ninety%20%nine%20%thousand%20%nine%20%hundred%20%ninety%20%nine.py)
+* [[5 kyu] ninety nine thousand nine hundred ninety nine.py](./Python/[5%20kyu]%20ninety%20nine%20thousand%20nine%20hundred%20ninety%20nine.py)
 
-* [[5 kyu] Number of trailing zeros of N factorial.py](./Python/[5%20%kyu]%20%Number%20%of%20%trailing%20%zeros%20%of%20%N%20%factorial.py)
+* [[5 kyu] Number of trailing zeros of N factorial.py](./Python/[5%20kyu]%20Number%20of%20trailing%20zeros%20of%20N%20factorial.py)
 
-* [[5 kyu] Paginating a huge book.py](./Python/[5%20%kyu]%20%Paginating%20%a%20%huge%20%book.py)
+* [[5 kyu] Paginating a huge book.py](./Python/[5%20kyu]%20Paginating%20a%20huge%20book.py)
 
-* [[5 kyu] PaginationHelper.py](./Python/[5%20%kyu]%20%PaginationHelper.py)
+* [[5 kyu] PaginationHelper.py](./Python/[5%20kyu]%20PaginationHelper.py)
 
-* [[5 kyu] perimeter of squares in a rectangle.py](./Python/[5%20%kyu]%20%perimeter%20%of%20%squares%20%in%20%a%20%rectangle.py)
+* [[5 kyu] perimeter of squares in a rectangle.py](./Python/[5%20kyu]%20perimeter%20of%20squares%20in%20a%20rectangle.py)
 
-* [[5 kyu] Pick peaks.py](./Python/[5%20%kyu]%20%Pick%20%peaks.py)
+* [[5 kyu] Pick peaks.py](./Python/[5%20kyu]%20Pick%20peaks.py)
 
-* [[5 kyu] product of consecutive Fib numbers.py](./Python/[5%20%kyu]%20%product%20%of%20%consecutive%20%Fib%20%numbers.py)
+* [[5 kyu] product of consecutive Fib numbers.py](./Python/[5%20kyu]%20product%20of%20consecutive%20Fib%20numbers.py)
 
-* [[5 kyu] Range of Integers in an Unsorted String.py](./Python/[5%20%kyu]%20%Range%20%of%20%Integers%20%in%20%an%20%Unsorted%20%String.py)
+* [[5 kyu] Range of Integers in an Unsorted String.py](./Python/[5%20kyu]%20Range%20of%20Integers%20in%20an%20Unsorted%20String.py)
 
-* [[5 kyu] Regex Password Validation.py](./Python/[5%20%kyu]%20%Regex%20%Password%20%Validation.py)
+* [[5 kyu] Regex Password Validation.py](./Python/[5%20kyu]%20Regex%20Password%20Validation.py)
 
-* [[5 kyu] scramblies.py](./Python/[5%20%kyu]%20%scramblies.py)
+* [[5 kyu] scramblies.py](./Python/[5%20kyu]%20scramblies.py)
 
-* [[5 kyu] simple assembler interpreter.py](./Python/[5%20%kyu]%20%simple%20%assembler%20%interpreter.py)
+* [[5 kyu] simple assembler interpreter.py](./Python/[5%20kyu]%20simple%20assembler%20interpreter.py)
 
-* [[5 kyu] Simple Pig Latin.py](./Python/[5%20%kyu]%20%Simple%20%Pig%20%Latin.py)
+* [[5 kyu] Simple Pig Latin.py](./Python/[5%20kyu]%20Simple%20Pig%20Latin.py)
 
-* [[5 kyu] simple string reversal.py](./Python/[5%20%kyu]%20%simple%20%string%20%reversal.py)
+* [[5 kyu] simple string reversal.py](./Python/[5%20kyu]%20simple%20string%20reversal.py)
 
-* [[5 kyu] string incrementer.py](./Python/[5%20%kyu]%20%string%20%incrementer.py)
+* [[5 kyu] string incrementer.py](./Python/[5%20kyu]%20string%20incrementer.py)
 
-* [[5 kyu] sum of pairs.py](./Python/[5%20%kyu]%20%sum%20%of%20%pairs.py)
+* [[5 kyu] sum of pairs.py](./Python/[5%20kyu]%20sum%20of%20pairs.py)
 
-* [[5 kyu] The Hashtag Generator.py](./Python/[5%20%kyu]%20%The%20%Hashtag%20%Generator.py)
+* [[5 kyu] The Hashtag Generator.py](./Python/[5%20kyu]%20The%20Hashtag%20Generator.py)
 
-* [[5 kyu] ttt38 the sum of each digits.py](./Python/[5%20%kyu]%20%ttt38%20%the%20%sum%20%of%20%each%20%digits.py)
+* [[5 kyu] ttt38 the sum of each digits.py](./Python/[5%20kyu]%20ttt38%20the%20sum%20of%20each%20digits.py)
 
-* [[5 kyu] Valid Parentheses.py](./Python/[5%20%kyu]%20%Valid%20%Parentheses.py)
+* [[5 kyu] Valid Parentheses.py](./Python/[5%20kyu]%20Valid%20Parentheses.py)
 
-* [[5 kyu] weight for weight.py](./Python/[5%20%kyu]%20%weight%20%for%20%weight.py)
+* [[5 kyu] weight for weight.py](./Python/[5%20kyu]%20weight%20for%20weight.py)
 
-* [[5 kyu] which x for that sum.py](./Python/[5%20%kyu]%20%which%20%x%20%for%20%that%20%sum.py)
+* [[5 kyu] which x for that sum.py](./Python/[5%20kyu]%20which%20x%20for%20that%20sum.py)
 
-* [[6 kyu] a disguised sequence i.py](./Python/[6%20%kyu]%20%a%20%disguised%20%sequence%20%i.py)
+* [[6 kyu] a disguised sequence i.py](./Python/[6%20kyu]%20a%20disguised%20sequence%20i.py)
 
-* [[6 kyu] apply offset to subtitles.py](./Python/[6%20%kyu]%20%apply%20%offset%20%to%20%subtitles.py)
+* [[6 kyu] apply offset to subtitles.py](./Python/[6%20kyu]%20apply%20offset%20to%20subtitles.py)
 
-* [[6 kyu] Are they the same.py](./Python/[6%20%kyu]%20%Are%20%they%20%the%20%same.py)
+* [[6 kyu] Are they the same.py](./Python/[6%20kyu]%20Are%20they%20the%20same.py)
 
-* [[6 kyu] array diff.py](./Python/[6%20%kyu]%20%array%20%diff.py)
+* [[6 kyu] array diff.py](./Python/[6%20kyu]%20array%20diff.py)
 
-* [[6 kyu] array exchange.py](./Python/[6%20%kyu]%20%array%20%exchange.py)
+* [[6 kyu] array exchange.py](./Python/[6%20kyu]%20array%20exchange.py)
 
-* [[6 kyu] backspaces in string.py](./Python/[6%20%kyu]%20%backspaces%20%in%20%string.py)
+* [[6 kyu] backspaces in string.py](./Python/[6%20kyu]%20backspaces%20in%20string.py)
 
-* [[6 kyu] ball upwards.py](./Python/[6%20%kyu]%20%ball%20%upwards.py)
+* [[6 kyu] ball upwards.py](./Python/[6%20kyu]%20ball%20upwards.py)
 
-* [[6 kyu] basics 03 strings numbers and calculation.py](./Python/[6%20%kyu]%20%basics%20%03%20%strings%20%numbers%20%and%20%calculation.py)
+* [[6 kyu] basics 03 strings numbers and calculation.py](./Python/[6%20kyu]%20basics%2003%20strings%20numbers%20and%20calculation.py)
 
-* [[6 kyu] blind numbers.py](./Python/[6%20%kyu]%20%blind%20%numbers.py)
+* [[6 kyu] blind numbers.py](./Python/[6%20kyu]%20blind%20numbers.py)
 
-* [[6 kyu] braking well.py](./Python/[6%20%kyu]%20%braking%20%well.py)
+* [[6 kyu] braking well.py](./Python/[6%20kyu]%20braking%20well.py)
 
-* [[6 kyu] break camelCase.py](./Python/[6%20%kyu]%20%break%20%camelCase.py)
+* [[6 kyu] break camelCase.py](./Python/[6%20kyu]%20break%20camelCase.py)
 
-* [[6 kyu] breaking search bad.py](./Python/[6%20%kyu]%20%breaking%20%search%20%bad.py)
+* [[6 kyu] breaking search bad.py](./Python/[6%20kyu]%20breaking%20search%20bad.py)
 
-* [[6 kyu] build a pile of cubes.py](./Python/[6%20%kyu]%20%build%20%a%20%pile%20%of%20%cubes.py)
+* [[6 kyu] build a pile of cubes.py](./Python/[6%20kyu]%20build%20a%20pile%20of%20cubes.py)
 
-* [[6 kyu] Calculate string notation.py](./Python/[6%20%kyu]%20%Calculate%20%string%20%notation.py)
+* [[6 kyu] Calculate string notation.py](./Python/[6%20kyu]%20Calculate%20string%20notation.py)
 
-* [[6 kyu] consecutive count.py](./Python/[6%20%kyu]%20%consecutive%20%count.py)
+* [[6 kyu] consecutive count.py](./Python/[6%20kyu]%20consecutive%20count.py)
 
-* [[6 kyu] counting duplicates.py](./Python/[6%20%kyu]%20%counting%20%duplicates.py)
+* [[6 kyu] counting duplicates.py](./Python/[6%20kyu]%20counting%20duplicates.py)
 
-* [[6 kyu] crack the pin.py](./Python/[6%20%kyu]%20%crack%20%the%20%pin.py)
+* [[6 kyu] crack the pin.py](./Python/[6%20kyu]%20crack%20the%20pin.py)
 
-* [[6 kyu] Create Phone Number.py](./Python/[6%20%kyu]%20%Create%20%Phone%20%Number.py)
+* [[6 kyu] Create Phone Number.py](./Python/[6%20kyu]%20Create%20Phone%20Number.py)
 
-* [[6 kyu] decipher student messages.py](./Python/[6%20%kyu]%20%decipher%20%student%20%messages.py)
+* [[6 kyu] decipher student messages.py](./Python/[6%20kyu]%20decipher%20student%20messages.py)
 
-* [[6 kyu] Decode the Morse code.py](./Python/[6%20%kyu]%20%Decode%20%the%20%Morse%20%code.py)
+* [[6 kyu] Decode the Morse code.py](./Python/[6%20kyu]%20Decode%20the%20Morse%20code.py)
 
-* [[6 kyu] default list.py](./Python/[6%20%kyu]%20%default%20%list.py)
+* [[6 kyu] default list.py](./Python/[6%20kyu]%20default%20list.py)
 
-* [[6 kyu] delete occurences of an element if it occurs more than n times.py](./Python/[6%20%kyu]%20%delete%20%occurences%20%of%20%an%20%element%20%if%20%it%20%occurs%20%more%20%than%20%n%20%times.py)
+* [[6 kyu] delete occurences of an element if it occurs more than n times.py](./Python/[6%20kyu]%20delete%20occurences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times.py)
 
-* [[6 kyu] difference of 2.py](./Python/[6%20%kyu]%20%difference%20%of%20%2.py)
+* [[6 kyu] difference of 2.py](./Python/[6%20kyu]%20difference%20of%202.py)
 
-* [[6 kyu] Does my number look big in this.py](./Python/[6%20%kyu]%20%Does%20%my%20%number%20%look%20%big%20%in%20%this.py)
+* [[6 kyu] Does my number look big in this.py](./Python/[6%20kyu]%20Does%20my%20number%20look%20big%20in%20this.py)
 
-* [[6 kyu] dominant primes.py](./Python/[6%20%kyu]%20%dominant%20%primes.py)
+* [[6 kyu] dominant primes.py](./Python/[6%20kyu]%20dominant%20primes.py)
 
-* [[6 kyu] duplicate encoder.py](./Python/[6%20%kyu]%20%duplicate%20%encoder.py)
+* [[6 kyu] duplicate encoder.py](./Python/[6%20kyu]%20duplicate%20encoder.py)
 
-* [[6 kyu] duplicates duplicates everywhere.py](./Python/[6%20%kyu]%20%duplicates%20%duplicates%20%everywhere.py)
+* [[6 kyu] duplicates duplicates everywhere.py](./Python/[6%20kyu]%20duplicates%20duplicates%20everywhere.py)
 
-* [[6 kyu] elimination tournament.py](./Python/[6%20%kyu]%20%elimination%20%tournament.py)
+* [[6 kyu] elimination tournament.py](./Python/[6%20kyu]%20elimination%20tournament.py)
 
-* [[6 kyu] encrypt this.py](./Python/[6%20%kyu]%20%encrypt%20%this.py)
+* [[6 kyu] encrypt this.py](./Python/[6%20kyu]%20encrypt%20this.py)
 
-* [[6 kyu] english beggars.py](./Python/[6%20%kyu]%20%english%20%beggars.py)
+* [[6 kyu] english beggars.py](./Python/[6%20kyu]%20english%20beggars.py)
 
-* [[6 kyu] equal sides of an array.py](./Python/[6%20%kyu]%20%equal%20%sides%20%of%20%an%20%array.py)
+* [[6 kyu] equal sides of an array.py](./Python/[6%20kyu]%20equal%20sides%20of%20an%20array.py)
 
-* [[6 kyu] Find the unique number.py](./Python/[6%20%kyu]%20%Find%20%the%20%unique%20%number.py)
+* [[6 kyu] Find the unique number.py](./Python/[6%20kyu]%20Find%20the%20unique%20number.py)
 
-* [[6 kyu] find within array.py](./Python/[6%20%kyu]%20%find%20%within%20%array.py)
+* [[6 kyu] find within array.py](./Python/[6%20kyu]%20find%20within%20array.py)
 
-* [[6 kyu] fold an array.py](./Python/[6%20%kyu]%20%fold%20%an%20%array.py)
+* [[6 kyu] fold an array.py](./Python/[6%20kyu]%20fold%20an%20array.py)
 
-* [[6 kyu] Grouped by commas.py](./Python/[6%20%kyu]%20%Grouped%20%by%20%commas.py)
+* [[6 kyu] Grouped by commas.py](./Python/[6%20kyu]%20Grouped%20by%20commas.py)
 
-* [[6 kyu] highest scoring word.py](./Python/[6%20%kyu]%20%highest%20%scoring%20%word.py)
+* [[6 kyu] highest scoring word.py](./Python/[6%20kyu]%20highest%20scoring%20word.py)
 
-* [[6 kyu] how much.py](./Python/[6%20%kyu]%20%how%20%much.py)
+* [[6 kyu] how much.py](./Python/[6%20kyu]%20how%20much.py)
 
-* [[6 kyu] HTML element generator.py](./Python/[6%20%kyu]%20%HTML%20%element%20%generator.py)
+* [[6 kyu] HTML element generator.py](./Python/[6%20kyu]%20HTML%20element%20generator.py)
 
-* [[6 kyu] i need more speed.py](./Python/[6%20%kyu]%20%i%20%need%20%more%20%speed.py)
+* [[6 kyu] i need more speed.py](./Python/[6%20kyu]%20i%20need%20more%20speed.py)
 
-* [[6 kyu] IP validation.py](./Python/[6%20%kyu]%20%IP%20%validation.py)
+* [[6 kyu] IP validation.py](./Python/[6%20kyu]%20IP%20validation.py)
 
-* [[6 kyu] IQ Test.py](./Python/[6%20%kyu]%20%IQ%20%Test.py)
+* [[6 kyu] IQ Test.py](./Python/[6%20kyu]%20IQ%20Test.py)
 
-* [[6 kyu] loose change.py](./Python/[6%20%kyu]%20%loose%20%change.py)
+* [[6 kyu] loose change.py](./Python/[6%20kyu]%20loose%20change.py)
 
-* [[6 kyu] maximum depth of nested brackets.py](./Python/[6%20%kyu]%20%maximum%20%depth%20%of%20%nested%20%brackets.py)
+* [[6 kyu] maximum depth of nested brackets.py](./Python/[6%20kyu]%20maximum%20depth%20of%20nested%20brackets.py)
 
-* [[6 kyu] more zeros than ones.py](./Python/[6%20%kyu]%20%more%20%zeros%20%than%20%ones.py)
+* [[6 kyu] more zeros than ones.py](./Python/[6%20kyu]%20more%20zeros%20than%20ones.py)
 
-* [[6 kyu] multiple of 3 or 5.py](./Python/[6%20%kyu]%20%multiple%20%of%20%3%20%or%20%5.py)
+* [[6 kyu] multiple of 3 or 5.py](./Python/[6%20kyu]%20multiple%20of%203%20or%205.py)
 
-* [[6 kyu] multiplication table.py](./Python/[6%20%kyu]%20%multiplication%20%table.py)
+* [[6 kyu] multiplication table.py](./Python/[6%20kyu]%20multiplication%20table.py)
 
-* [[6 kyu] multiply by a number, so it becomes.py](./Python/[6%20%kyu]%20%multiply%20%by%20%a%20%number,%20%so%20%it%20%becomes.py)
+* [[6 kyu] multiply by a number, so it becomes.py](./Python/[6%20kyu]%20multiply%20by%20a%20number,%20so%20it%20becomes.py)
 
-* [[6 kyu] new cashier does not know about space or shift.py](./Python/[6%20%kyu]%20%new%20%cashier%20%does%20%not%20%know%20%about%20%space%20%or%20%shift.py)
+* [[6 kyu] new cashier does not know about space or shift.py](./Python/[6%20kyu]%20new%20cashier%20does%20not%20know%20about%20space%20or%20shift.py)
 
-* [[6 kyu] no order of operations.py](./Python/[6%20%kyu]%20%no%20%order%20%of%20%operations.py)
+* [[6 kyu] no order of operations.py](./Python/[6%20kyu]%20no%20order%20of%20operations.py)
 
-* [[6 kyu] onion array.py](./Python/[6%20%kyu]%20%onion%20%array.py)
+* [[6 kyu] onion array.py](./Python/[6%20kyu]%20onion%20array.py)
 
-* [[6 kyu] parabolic arc length.py](./Python/[6%20%kyu]%20%parabolic%20%arc%20%length.py)
+* [[6 kyu] parabolic arc length.py](./Python/[6%20kyu]%20parabolic%20arc%20length.py)
 
-* [[6 kyu] pokemon damage calculator.py](./Python/[6%20%kyu]%20%pokemon%20%damage%20%calculator.py)
+* [[6 kyu] pokemon damage calculator.py](./Python/[6%20kyu]%20pokemon%20damage%20calculator.py)
 
-* [[6 kyu] prize draw.py](./Python/[6%20%kyu]%20%prize%20%draw.py)
+* [[6 kyu] prize draw.py](./Python/[6%20kyu]%20prize%20draw.py)
 
-* [[6 kyu] pyramid array.py](./Python/[6%20%kyu]%20%pyramid%20%array.py)
+* [[6 kyu] pyramid array.py](./Python/[6%20kyu]%20pyramid%20array.py)
 
-* [[6 kyu] rainfall.py](./Python/[6%20%kyu]%20%rainfall.py)
+* [[6 kyu] rainfall.py](./Python/[6%20kyu]%20rainfall.py)
 
-* [[6 kyu] Replace With Alphabet Position.py](./Python/[6%20%kyu]%20%Replace%20%With%20%Alphabet%20%Position.py)
+* [[6 kyu] Replace With Alphabet Position.py](./Python/[6%20kyu]%20Replace%20With%20Alphabet%20Position.py)
 
-* [[6 kyu] row of the odd triangle.py](./Python/[6%20%kyu]%20%row%20%of%20%the%20%odd%20%triangle.py)
+* [[6 kyu] row of the odd triangle.py](./Python/[6%20kyu]%20row%20of%20the%20odd%20triangle.py)
 
-* [[6 kyu] search in multidimensional array.py](./Python/[6%20%kyu]%20%search%20%in%20%multidimensional%20%array.py)
+* [[6 kyu] search in multidimensional array.py](./Python/[6%20kyu]%20search%20in%20multidimensional%20array.py)
 
-* [[6 kyu] simple fun 395 fibonacci digit sequence.py](./Python/[6%20%kyu]%20%simple%20%fun%20%395%20%fibonacci%20%digit%20%sequence.py)
+* [[6 kyu] simple fun 395 fibonacci digit sequence.py](./Python/[6%20kyu]%20simple%20fun%20395%20fibonacci%20digit%20sequence.py)
 
-* [[6 kyu] simple prime streaming.py](./Python/[6%20%kyu]%20%simple%20%prime%20%streaming.py)
+* [[6 kyu] simple prime streaming.py](./Python/[6%20kyu]%20simple%20prime%20streaming.py)
 
-* [[6 kyu] simple square numbers.py](./Python/[6%20%kyu]%20%simple%20%square%20%numbers.py)
+* [[6 kyu] simple square numbers.py](./Python/[6%20kyu]%20simple%20square%20numbers.py)
 
-* [[6 kyu] simple sum of pairs.py](./Python/[6%20%kyu]%20%simple%20%sum%20%of%20%pairs.py)
+* [[6 kyu] simple sum of pairs.py](./Python/[6%20kyu]%20simple%20sum%20of%20pairs.py)
 
-* [[6 kyu] simplify the number.py](./Python/[6%20%kyu]%20%simplify%20%the%20%number.py)
+* [[6 kyu] simplify the number.py](./Python/[6%20kyu]%20simplify%20the%20number.py)
 
-* [[6 kyu] sort sentence pseudo-alphabetically.py](./Python/[6%20%kyu]%20%sort%20%sentence%20%pseudo-alphabetically.py)
+* [[6 kyu] sort sentence pseudo-alphabetically.py](./Python/[6%20kyu]%20sort%20sentence%20pseudo-alphabetically.py)
 
-* [[6 kyu] split strings.py](./Python/[6%20%kyu]%20%split%20%strings.py)
+* [[6 kyu] split strings.py](./Python/[6%20kyu]%20split%20strings.py)
 
-* [[6 kyu] string letter counting.py](./Python/[6%20%kyu]%20%string%20%letter%20%counting.py)
+* [[6 kyu] string letter counting.py](./Python/[6%20kyu]%20string%20letter%20counting.py)
 
-* [[6 kyu] sum of all numbers with the same digits performance edition.py](./Python/[6%20%kyu]%20%sum%20%of%20%all%20%numbers%20%with%20%the%20%same%20%digits%20%performance%20%edition.py)
+* [[6 kyu] sum of all numbers with the same digits performance edition.py](./Python/[6%20kyu]%20sum%20of%20all%20numbers%20with%20the%20same%20digits%20performance%20edition.py)
 
-* [[6 kyu] sum of digits digital root.py](./Python/[6%20%kyu]%20%sum%20%of%20%digits%20%digital%20%root.py)
+* [[6 kyu] sum of digits digital root.py](./Python/[6%20kyu]%20sum%20of%20digits%20digital%20root.py)
 
-* [[6 kyu] sum of prime-indexed elements.py](./Python/[6%20%kyu]%20%sum%20%of%20%prime-indexed%20%elements.py)
+* [[6 kyu] sum of prime-indexed elements.py](./Python/[6%20kyu]%20sum%20of%20prime-indexed%20elements.py)
 
-* [[6 kyu] sums of parts.py](./Python/[6%20%kyu]%20%sums%20%of%20%parts.py)
+* [[6 kyu] sums of parts.py](./Python/[6%20kyu]%20sums%20of%20parts.py)
 
-* [[6 kyu] swap case using N.py](./Python/[6%20%kyu]%20%swap%20%case%20%using%20%N.py)
+* [[6 kyu] swap case using N.py](./Python/[6%20kyu]%20swap%20case%20using%20N.py)
 
-* [[6 kyu] Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eurekals.py](./Python/[6%20%kyu]%20%Take%20%a%20%Number%20%And%20%Sum%20%Its%20%Digits%20%Raised%20%To%20%The%20%Consecutive%20%Powers%20%And%20%....¡Eurekals.py)
+* [[6 kyu] Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eurekals.py](./Python/[6%20kyu]%20Take%20a%20Number%20And%20Sum%20Its%20Digits%20Raised%20To%20The%20Consecutive%20Powers%20And%20....¡Eurekals.py)
 
-* [[6 kyu] texting with an old-school mobile phone.py](./Python/[6%20%kyu]%20%texting%20%with%20%an%20%old-school%20%mobile%20%phone.py)
+* [[6 kyu] texting with an old-school mobile phone.py](./Python/[6%20kyu]%20texting%20with%20an%20old-school%20mobile%20phone.py)
 
-* [[6 kyu] the vowel code.py](./Python/[6%20%kyu]%20%the%20%vowel%20%code.py)
+* [[6 kyu] the vowel code.py](./Python/[6%20kyu]%20the%20vowel%20code.py)
 
-* [[6 kyu] tortoise racing.py](./Python/[6%20%kyu]%20%tortoise%20%racing.py)
+* [[6 kyu] tortoise racing.py](./Python/[6%20kyu]%20tortoise%20racing.py)
 
-* [[6 kyu] Tribonacci Sequence.py](./Python/[6%20%kyu]%20%Tribonacci%20%Sequence.py)
+* [[6 kyu] Tribonacci Sequence.py](./Python/[6%20kyu]%20Tribonacci%20Sequence.py)
 
-* [[6 kyu] uniq unix style.py](./Python/[6%20%kyu]%20%uniq%20%unix%20%style.py)
+* [[6 kyu] uniq unix style.py](./Python/[6%20kyu]%20uniq%20unix%20style.py)
 
-* [[6 kyu] unique in order.py](./Python/[6%20%kyu]%20%unique%20%in%20%order.py)
+* [[6 kyu] unique in order.py](./Python/[6%20kyu]%20unique%20in%20order.py)
 
-* [[6 kyu] Valid Phone Number.py](./Python/[6%20%kyu]%20%Valid%20%Phone%20%Number.py)
+* [[6 kyu] Valid Phone Number.py](./Python/[6%20kyu]%20Valid%20Phone%20Number.py)
 
-* [[6 kyu] VIN Checker.py](./Python/[6%20%kyu]%20%VIN%20%Checker.py)
+* [[6 kyu] VIN Checker.py](./Python/[6%20kyu]%20VIN%20Checker.py)
 
-* [[6 kyu] weird IPv6 hex string parsing.py](./Python/[6%20%kyu]%20%weird%20%IPv6%20%hex%20%string%20%parsing.py)
+* [[6 kyu] weird IPv6 hex string parsing.py](./Python/[6%20kyu]%20weird%20IPv6%20hex%20string%20parsing.py)
 
-* [[6 kyu] who likes it.py](./Python/[6%20%kyu]%20%who%20%likes%20%it.py)
+* [[6 kyu] who likes it.py](./Python/[6%20kyu]%20who%20likes%20it.py)
 
-* [[6 kyu] will the present fit.py](./Python/[6%20%kyu]%20%will%20%the%20%present%20%fit.py)
+* [[6 kyu] will the present fit.py](./Python/[6%20kyu]%20will%20the%20present%20fit.py)
 
-* [[6 kyu] Your order, please.py](./Python/[6%20%kyu]%20%Your%20%order,%20%please.py)
+* [[6 kyu] Your order, please.py](./Python/[6%20kyu]%20Your%20order,%20please.py)
 
-* [[7 kyu] 16+18=214.py](./Python/[7%20%kyu]%20%16+18=214.py)
+* [[7 kyu] 16+18=214.py](./Python/[7%20kyu]%2016+18=214.py)
 
-* [[7 kyu] a rule of divisibility by 7.py](./Python/[7%20%kyu]%20%a%20%rule%20%of%20%divisibility%20%by%20%7.py)
+* [[7 kyu] a rule of divisibility by 7.py](./Python/[7%20kyu]%20a%20rule%20of%20divisibility%20by%207.py)
 
-* [[7 kyu] alphabetical addition.py](./Python/[7%20%kyu]%20%alphabetical%20%addition.py)
+* [[7 kyu] alphabetical addition.py](./Python/[7%20kyu]%20alphabetical%20addition.py)
 
-* [[7 kyu] Alternate capitalization.py](./Python/[7%20%kyu]%20%Alternate%20%capitalization.py)
+* [[7 kyu] Alternate capitalization.py](./Python/[7%20kyu]%20Alternate%20capitalization.py)
 
-* [[7 kyu] area of an arrow.py](./Python/[7%20%kyu]%20%area%20%of%20%an%20%arrow.py)
+* [[7 kyu] area of an arrow.py](./Python/[7%20kyu]%20area%20of%20an%20arrow.py)
 
-* [[7 kyu] Array element parity .py](./Python/[7%20%kyu]%20%Array%20%element%20%parity%20%.py)
+* [[7 kyu] Array element parity .py](./Python/[7%20kyu]%20Array%20element%20parity%20.py)
 
-* [[7 kyu] asterisk it.py](./Python/[7%20%kyu]%20%asterisk%20%it.py)
+* [[7 kyu] asterisk it.py](./Python/[7%20kyu]%20asterisk%20it.py)
 
-* [[7 kyu] ATM.py](./Python/[7%20%kyu]%20%ATM.py)
+* [[7 kyu] ATM.py](./Python/[7%20kyu]%20ATM.py)
 
-* [[7 kyu] basic calculator.py](./Python/[7%20%kyu]%20%basic%20%calculator.py)
+* [[7 kyu] basic calculator.py](./Python/[7%20kyu]%20basic%20calculator.py)
 
-* [[7 kyu] beginner series 3 sum of numbers.py](./Python/[7%20%kyu]%20%beginner%20%series%20%3%20%sum%20%of%20%numbers.py)
+* [[7 kyu] beginner series 3 sum of numbers.py](./Python/[7%20kyu]%20beginner%20series%203%20sum%20of%20numbers.py)
 
-* [[7 kyu] Bus Timer.py](./Python/[7%20%kyu]%20%Bus%20%Timer.py)
+* [[7 kyu] Bus Timer.py](./Python/[7%20kyu]%20Bus%20Timer.py)
 
-* [[7 kyu] by 3, or not by 3 that is the question.py](./Python/[7%20%kyu]%20%by%20%3,%20%or%20%not%20%by%20%3%20%that%20%is%20%the%20%question.py)
+* [[7 kyu] by 3, or not by 3 that is the question.py](./Python/[7%20kyu]%20by%203,%20or%20not%20by%203%20that%20is%20the%20question.py)
 
-* [[7 kyu] C Wars.py](./Python/[7%20%kyu]%20%C%20%Wars.py)
+* [[7 kyu] C Wars.py](./Python/[7%20kyu]%20C%20Wars.py)
 
-* [[7 kyu] cartesian coordinates from degree angle.py](./Python/[7%20%kyu]%20%cartesian%20%coordinates%20%from%20%degree%20%angle.py)
+* [[7 kyu] cartesian coordinates from degree angle.py](./Python/[7%20kyu]%20cartesian%20coordinates%20from%20degree%20angle.py)
 
-* [[7 kyu] complete series.py](./Python/[7%20%kyu]%20%complete%20%series.py)
+* [[7 kyu] complete series.py](./Python/[7%20kyu]%20complete%20series.py)
 
-* [[7 kyu] counting valleys.py](./Python/[7%20%kyu]%20%counting%20%valleys.py)
+* [[7 kyu] counting valleys.py](./Python/[7%20kyu]%20counting%20valleys.py)
 
-* [[7 kyu] debug sum of digits of a number.py](./Python/[7%20%kyu]%20%debug%20%sum%20%of%20%digits%20%of%20%a%20%number.py)
+* [[7 kyu] debug sum of digits of a number.py](./Python/[7%20kyu]%20debug%20sum%20of%20digits%20of%20a%20number.py)
 
-* [[7 kyu] Deodorant Evaporator.py](./Python/[7%20%kyu]%20%Deodorant%20%Evaporator.py)
+* [[7 kyu] Deodorant Evaporator.py](./Python/[7%20kyu]%20Deodorant%20Evaporator.py)
 
-* [[7 kyu] Disemvowel Trolls.py](./Python/[7%20%kyu]%20%Disemvowel%20%Trolls.py)
+* [[7 kyu] Disemvowel Trolls.py](./Python/[7%20kyu]%20Disemvowel%20Trolls.py)
 
-* [[7 kyu] Enumerable Magic 5-True for Just One.py](./Python/[7%20%kyu]%20%Enumerable%20%Magic%20%5-True%20%for%20%Just%20%One.py)
+* [[7 kyu] Enumerable Magic 5-True for Just One.py](./Python/[7%20kyu]%20Enumerable%20Magic%205-True%20for%20Just%20One.py)
 
-* [[7 kyu] even or odd - which is greater.py](./Python/[7%20%kyu]%20%even%20%or%20%odd%20%-%20%which%20%is%20%greater.py)
+* [[7 kyu] even or odd - which is greater.py](./Python/[7%20kyu]%20even%20or%20odd%20-%20which%20is%20greater.py)
 
-* [[7 kyu] factorial.py](./Python/[7%20%kyu]%20%factorial.py)
+* [[7 kyu] factorial.py](./Python/[7%20kyu]%20factorial.py)
 
-* [[7 kyu] find all occurrences of an element in an array.py](./Python/[7%20%kyu]%20%find%20%all%20%occurrences%20%of%20%an%20%element%20%in%20%an%20%array.py)
+* [[7 kyu] find all occurrences of an element in an array.py](./Python/[7%20kyu]%20find%20all%20occurrences%20of%20an%20element%20in%20an%20array.py)
 
-* [[7 kyu] find min and max.py](./Python/[7%20%kyu]%20%find%20%min%20%and%20%max.py)
+* [[7 kyu] find min and max.py](./Python/[7%20kyu]%20find%20min%20and%20max.py)
 
-* [[7 kyu] Find the capitals.py](./Python/[7%20%kyu]%20%Find%20%the%20%capitals.py)
+* [[7 kyu] Find the capitals.py](./Python/[7%20kyu]%20Find%20the%20capitals.py)
 
-* [[7 kyu] Find the missing number.py](./Python/[7%20%kyu]%20%Find%20%the%20%missing%20%number.py)
+* [[7 kyu] Find the missing number.py](./Python/[7%20kyu]%20Find%20the%20missing%20number.py)
 
-* [[7 kyu] find the sum of the roots of a quadratic equation.py](./Python/[7%20%kyu]%20%find%20%the%20%sum%20%of%20%the%20%roots%20%of%20%a%20%quadratic%20%equation.py)
+* [[7 kyu] find the sum of the roots of a quadratic equation.py](./Python/[7%20kyu]%20find%20the%20sum%20of%20the%20roots%20of%20a%20quadratic%20equation.py)
 
-* [[7 kyu] Fix string case.py](./Python/[7%20%kyu]%20%Fix%20%string%20%case.py)
+* [[7 kyu] Fix string case.py](./Python/[7%20kyu]%20Fix%20string%20case.py)
 
-* [[7 kyu] Get the Middle Character.py](./Python/[7%20%kyu]%20%Get%20%the%20%Middle%20%Character.py)
+* [[7 kyu] Get the Middle Character.py](./Python/[7%20kyu]%20Get%20the%20Middle%20Character.py)
 
-* [[7 kyu] greet me.py](./Python/[7%20%kyu]%20%greet%20%me.py)
+* [[7 kyu] greet me.py](./Python/[7%20kyu]%20greet%20me.py)
 
-* [[7 kyu] Growth of a Population.py](./Python/[7%20%kyu]%20%Growth%20%of%20%a%20%Population.py)
+* [[7 kyu] Growth of a Population.py](./Python/[7%20kyu]%20Growth%20of%20a%20Population.py)
 
-* [[7 kyu] Halving Sum.py](./Python/[7%20%kyu]%20%Halving%20%Sum.py)
+* [[7 kyu] Halving Sum.py](./Python/[7%20kyu]%20Halving%20Sum.py)
 
-* [[7 kyu] highest and lowest.py](./Python/[7%20%kyu]%20%highest%20%and%20%lowest.py)
+* [[7 kyu] highest and lowest.py](./Python/[7%20kyu]%20highest%20and%20lowest.py)
 
-* [[7 kyu] Indexed capitalization.py](./Python/[7%20%kyu]%20%Indexed%20%capitalization.py)
+* [[7 kyu] Indexed capitalization.py](./Python/[7%20kyu]%20Indexed%20capitalization.py)
 
-* [[7 kyu] integer difference.py](./Python/[7%20%kyu]%20%integer%20%difference.py)
+* [[7 kyu] integer difference.py](./Python/[7%20kyu]%20integer%20difference.py)
 
-* [[7 kyu] Interview Question (easy).py](./Python/[7%20%kyu]%20%Interview%20%Question%20%(easy).py)
+* [[7 kyu] Interview Question (easy).py](./Python/[7%20kyu]%20Interview%20Question%20(easy).py)
 
-* [[7 kyu] Largest 5 digit number in a series.py](./Python/[7%20%kyu]%20%Largest%20%5%20%digit%20%number%20%in%20%a%20%series.py)
+* [[7 kyu] Largest 5 digit number in a series.py](./Python/[7%20kyu]%20Largest%205%20digit%20number%20in%20a%20series.py)
 
-* [[7 kyu] Largest pair sum in array.py](./Python/[7%20%kyu]%20%Largest%20%pair%20%sum%20%in%20%array.py)
+* [[7 kyu] Largest pair sum in array.py](./Python/[7%20kyu]%20Largest%20pair%20sum%20in%20array.py)
 
-* [[7 kyu] last digits of a number.py](./Python/[7%20%kyu]%20%last%20%digits%20%of%20%a%20%number.py)
+* [[7 kyu] last digits of a number.py](./Python/[7%20kyu]%20last%20digits%20of%20a%20number.py)
 
-* [[7 kyu] london city hacker.py](./Python/[7%20%kyu]%20%london%20%city%20%hacker.py)
+* [[7 kyu] london city hacker.py](./Python/[7%20kyu]%20london%20city%20hacker.py)
 
-* [[7 kyu] max diff-easy.py](./Python/[7%20%kyu]%20%max%20%diff-easy.py)
+* [[7 kyu] max diff-easy.py](./Python/[7%20kyu]%20max%20diff-easy.py)
 
-* [[7 kyu] Maximum Length Difference.py](./Python/[7%20%kyu]%20%Maximum%20%Length%20%Difference.py)
+* [[7 kyu] Maximum Length Difference.py](./Python/[7%20kyu]%20Maximum%20Length%20Difference.py)
 
-* [[7 kyu] multiplier array values and filter non-numeric.py](./Python/[7%20%kyu]%20%multiplier%20%array%20%values%20%and%20%filter%20%non-numeric.py)
+* [[7 kyu] multiplier array values and filter non-numeric.py](./Python/[7%20kyu]%20multiplier%20array%20values%20and%20filter%20non-numeric.py)
 
-* [[7 kyu] my languages.py](./Python/[7%20%kyu]%20%my%20%languages.py)
+* [[7 kyu] my languages.py](./Python/[7%20kyu]%20my%20languages.py)
 
-* [[7 kyu] naughty or nice.py](./Python/[7%20%kyu]%20%naughty%20%or%20%nice.py)
+* [[7 kyu] naughty or nice.py](./Python/[7%20kyu]%20naughty%20or%20nice.py)
 
-* [[7 kyu] Nth power rules them all.py](./Python/[7%20%kyu]%20%Nth%20%power%20%rules%20%them%20%all.py)
+* [[7 kyu] Nth power rules them all.py](./Python/[7%20kyu]%20Nth%20power%20rules%20them%20all.py)
 
-* [[7 kyu] Ordered count of characters.py](./Python/[7%20%kyu]%20%Ordered%20%count%20%of%20%characters.py)
+* [[7 kyu] Ordered count of characters.py](./Python/[7%20kyu]%20Ordered%20count%20of%20characters.py)
 
-* [[7 kyu] orthogonal vectors.py](./Python/[7%20%kyu]%20%orthogonal%20%vectors.py)
+* [[7 kyu] orthogonal vectors.py](./Python/[7%20kyu]%20orthogonal%20vectors.py)
 
-* [[7 kyu] Password Check - Binary to String.py](./Python/[7%20%kyu]%20%Password%20%Check%20%-%20%Binary%20%to%20%String.py)
+* [[7 kyu] Password Check - Binary to String.py](./Python/[7%20kyu]%20Password%20Check%20-%20Binary%20to%20String.py)
 
-* [[7 kyu] Plus-minus-plus-plus-Count.py](./Python/[7%20%kyu]%20%Plus-minus-plus-plus-Count.py)
+* [[7 kyu] Plus-minus-plus-plus-Count.py](./Python/[7%20kyu]%20Plus-minus-plus-plus-Count.py)
 
-* [[7 kyu] Printer Errors.py](./Python/[7%20%kyu]%20%Printer%20%Errors.py)
+* [[7 kyu] Printer Errors.py](./Python/[7%20kyu]%20Printer%20Errors.py)
 
-* [[7 kyu] Return the first M multiplies of N.py](./Python/[7%20%kyu]%20%Return%20%the%20%first%20%M%20%multiplies%20%of%20%N.py)
+* [[7 kyu] Return the first M multiplies of N.py](./Python/[7%20kyu]%20Return%20the%20first%20M%20multiplies%20of%20N.py)
 
-* [[7 kyu] reverse the bits in an integer.py](./Python/[7%20%kyu]%20%reverse%20%the%20%bits%20%in%20%an%20%integer.py)
+* [[7 kyu] reverse the bits in an integer.py](./Python/[7%20kyu]%20reverse%20the%20bits%20in%20an%20integer.py)
 
-* [[7 kyu] Say hello!.py](./Python/[7%20%kyu]%20%Say%20%hello!.py)
+* [[7 kyu] Say hello!.py](./Python/[7%20kyu]%20Say%20hello!.py)
 
-* [[7 kyu] scrabble score.py](./Python/[7%20%kyu]%20%scrabble%20%score.py)
+* [[7 kyu] scrabble score.py](./Python/[7%20kyu]%20scrabble%20score.py)
 
-* [[7 kyu] Search for letters.py](./Python/[7%20%kyu]%20%Search%20%for%20%letters.py)
+* [[7 kyu] Search for letters.py](./Python/[7%20kyu]%20Search%20for%20letters.py)
 
-* [[7 kyu] Series of integers from m to n.py](./Python/[7%20%kyu]%20%Series%20%of%20%integers%20%from%20%m%20%to%20%n.py)
+* [[7 kyu] Series of integers from m to n.py](./Python/[7%20kyu]%20Series%20of%20integers%20from%20m%20to%20n.py)
 
-* [[7 kyu] shared bit counter.py](./Python/[7%20%kyu]%20%shared%20%bit%20%counter.py)
+* [[7 kyu] shared bit counter.py](./Python/[7%20kyu]%20shared%20bit%20counter.py)
 
-* [[7 kyu] simple array product.py](./Python/[7%20%kyu]%20%simple%20%array%20%product.py)
+* [[7 kyu] simple array product.py](./Python/[7%20kyu]%20simple%20array%20product.py)
 
-* [[7 kyu] simple fibonacci strings.py](./Python/[7%20%kyu]%20%simple%20%fibonacci%20%strings.py)
+* [[7 kyu] simple fibonacci strings.py](./Python/[7%20kyu]%20simple%20fibonacci%20strings.py)
 
-* [[7 kyu] Simple remove duplicates.py](./Python/[7%20%kyu]%20%Simple%20%remove%20%duplicates.py)
+* [[7 kyu] Simple remove duplicates.py](./Python/[7%20kyu]%20Simple%20remove%20duplicates.py)
 
-* [[7 kyu] sliding puzzle verification.py](./Python/[7%20%kyu]%20%sliding%20%puzzle%20%verification.py)
+* [[7 kyu] sliding puzzle verification.py](./Python/[7%20kyu]%20sliding%20puzzle%20verification.py)
 
-* [[7 kyu] sort rectangles and circles by are ii.py](./Python/[7%20%kyu]%20%sort%20%rectangles%20%and%20%circles%20%by%20%are%20%ii.py)
+* [[7 kyu] sort rectangles and circles by are ii.py](./Python/[7%20kyu]%20sort%20rectangles%20and%20circles%20by%20are%20ii.py)
 
-* [[7 kyu] Split in parts.py](./Python/[7%20%kyu]%20%Split%20%in%20%parts.py)
+* [[7 kyu] Split in parts.py](./Python/[7%20kyu]%20Split%20in%20parts.py)
 
-* [[7 kyu] strings starts with.py](./Python/[7%20%kyu]%20%strings%20%starts%20%with.py)
+* [[7 kyu] strings starts with.py](./Python/[7%20kyu]%20strings%20starts%20with.py)
 
-* [[7 kyu] tap code translation.py](./Python/[7%20%kyu]%20%tap%20%code%20%translation.py)
+* [[7 kyu] tap code translation.py](./Python/[7%20kyu]%20tap%20code%20translation.py)
 
-* [[7 kyu] The reject() function.py](./Python/[7%20%kyu]%20%The%20%reject()%20%function.py)
+* [[7 kyu] The reject() function.py](./Python/[7%20kyu]%20The%20reject()%20function.py)
 
-* [[7 kyu] the skiponacci sequence.py](./Python/[7%20%kyu]%20%the%20%skiponacci%20%sequence.py)
+* [[7 kyu] the skiponacci sequence.py](./Python/[7%20kyu]%20the%20skiponacci%20sequence.py)
 
-* [[7 kyu] Unique string characters.py](./Python/[7%20%kyu]%20%Unique%20%string%20%characters.py)
+* [[7 kyu] Unique string characters.py](./Python/[7%20kyu]%20Unique%20string%20characters.py)
 
-* [[7 kyu] valid spacing.py](./Python/[7%20%kyu]%20%valid%20%spacing.py)
+* [[7 kyu] valid spacing.py](./Python/[7%20kyu]%20valid%20spacing.py)
 
-* [[8 kyu] Coefficients of the Quadratic Equation.py](./Python/[8%20%kyu]%20%Coefficients%20%of%20%the%20%Quadratic%20%Equation.py)
+* [[8 kyu] Coefficients of the Quadratic Equation.py](./Python/[8%20kyu]%20Coefficients%20of%20the%20Quadratic%20Equation.py)
 
-* [[8 kyu] Multiply.py](./Python/[8%20%kyu]%20%Multiply.py)
+* [[8 kyu] Multiply.py](./Python/[8%20kyu]%20Multiply.py)
