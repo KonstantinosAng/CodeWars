@@ -19,7 +19,7 @@
 ## Javascript
     
     
-* [[4 kyu] permutations.js](Javascript/[4 kyu] permutations.js)
+* [ [4 kyu] permutations.js ](Javascript/[4 kyu] permutations.js)
       
 * [[5 kyu] Human Readable Time.js](Javascript/[5 kyu] Human Readable Time.js)
       
