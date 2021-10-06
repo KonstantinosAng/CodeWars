@@ -20,6 +20,9 @@ constTemplate = """
   <a href="https://www.codewars.com/users/CyberBoy" target="_blank">
     <img src="https://www.codewars.com/users/CyberBoy/badges/large" alt="Codewars Warrior" width="500px"/>
   </a>
+
+  __AUTO GENERATED FILE__
+
 </div>
 """
 
