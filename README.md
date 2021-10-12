@@ -401,6 +401,8 @@
 
 * [[6 kyu] Valid Phone Number.py](./Python/[6%20kyu]%20Valid%20Phone%20Number.py)
 
+* [[6 kyu] Versions manager.py](./Python/[6%20kyu]%20Versions%20manager.py)
+
 * [[6 kyu] VIN Checker.py](./Python/[6%20kyu]%20VIN%20Checker.py)
 
 * [[6 kyu] weird IPv6 hex string parsing.py](./Python/[6%20kyu]%20weird%20IPv6%20hex%20string%20parsing.py)
