@@ -405,6 +405,8 @@
 
 * [[6 kyu] VIN Checker.py](./Python/[6%20kyu]%20VIN%20Checker.py)
 
+* [[6 kyu] Vowels Back.py](./Python/[6%20kyu]%20Vowels%20Back.py)
+
 * [[6 kyu] weird IPv6 hex string parsing.py](./Python/[6%20kyu]%20weird%20IPv6%20hex%20string%20parsing.py)
 
 * [[6 kyu] who likes it.py](./Python/[6%20kyu]%20who%20likes%20it.py)

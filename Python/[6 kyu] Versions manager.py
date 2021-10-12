@@ -1,4 +1,4 @@
-# see https://www.codewars.com/kata/5b883cdecc7c03c0fa00015a/train/python
+# see https://www.codewars.com/kata/5bc7bb444be9774f100000c3/train/python
 
 
 class VersionManager:
