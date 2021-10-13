@@ -329,6 +329,8 @@
 
 * [[6 kyu] loose change.py](./Python/[6%20kyu]%20loose%20change.py)
 
+* [[6 kyu] matrix Expasion.py](./Python/[6%20kyu]%20matrix%20Expasion.py)
+
 * [[6 kyu] maximum depth of nested brackets.py](./Python/[6%20kyu]%20maximum%20depth%20of%20nested%20brackets.py)
 
 * [[6 kyu] more zeros than ones.py](./Python/[6%20kyu]%20more%20zeros%20than%20ones.py)
