@@ -269,6 +269,8 @@
 
 * [[6 kyu] Calculate string notation.py](./Python/[6%20kyu]%20Calculate%20string%20notation.py)
 
+* [[6 kyu] Closest Perfect Power.py](./Python/[6%20kyu]%20Closest%20Perfect%20Power.py)
+
 * [[6 kyu] consecutive count.py](./Python/[6%20kyu]%20consecutive%20count.py)
 
 * [[6 kyu] Count words.py](./Python/[6%20kyu]%20Count%20words.py)

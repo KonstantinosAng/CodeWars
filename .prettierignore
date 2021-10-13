@@ -1,0 +1,11 @@
+.vscode/
+.idea/
+Javascript/node_modules/
+test/
+dist/
+build/
+createREADME.py
+LICENSE
+Makefile
+.gitignore
+Python/__pycache__s
