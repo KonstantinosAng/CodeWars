@@ -327,6 +327,8 @@
 
 * [[6 kyu] IQ Test.py](./Python/[6%20kyu]%20IQ%20Test.py)
 
+* [[6 kyu] Largest Cross Sum.py](./Python/[6%20kyu]%20Largest%20Cross%20Sum.py)
+
 * [[6 kyu] loose change.py](./Python/[6%20kyu]%20loose%20change.py)
 
 * [[6 kyu] matrix Expasion.py](./Python/[6%20kyu]%20matrix%20Expasion.py)
