@@ -241,6 +241,8 @@
 
 * [[6 kyu] a disguised sequence i.py](./Python/[6%20kyu]%20a%20disguised%20sequence%20i.py)
 
+* [[6 kyu] address Book by State.py](./Python/[6%20kyu]%20address%20Book%20by%20State.py)
+
 * [[6 kyu] apply offset to subtitles.py](./Python/[6%20kyu]%20apply%20offset%20to%20subtitles.py)
 
 * [[6 kyu] Are they the same.py](./Python/[6%20kyu]%20Are%20they%20the%20same.py)
