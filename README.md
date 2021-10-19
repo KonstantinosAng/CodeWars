@@ -263,6 +263,8 @@
 
 * [[6 kyu] blind numbers.py](./Python/[6%20kyu]%20blind%20numbers.py)
 
+* [[6 kyu] Bouncing Balls.py](./Python/[6%20kyu]%20Bouncing%20Balls.py)
+
 * [[6 kyu] braking well.py](./Python/[6%20kyu]%20braking%20well.py)
 
 * [[6 kyu] break camelCase.py](./Python/[6%20kyu]%20break%20camelCase.py)
