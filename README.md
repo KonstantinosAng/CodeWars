@@ -319,6 +319,8 @@
 
 * [[6 kyu] equal sides of an array.py](./Python/[6%20kyu]%20equal%20sides%20of%20an%20array.py)
 
+* [[6 kyu] Error correction #1 Hamming Code.py](./Python/[6%20kyu]%20Error%20correction%20#1%20Hamming%20Code.py)
+
 * [[6 kyu] Find the unique number.py](./Python/[6%20kyu]%20Find%20the%20unique%20number.py)
 
 * [[6 kyu] find within array.py](./Python/[6%20kyu]%20find%20within%20array.py)
