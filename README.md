@@ -361,6 +361,8 @@
 
 * [[6 kyu] parabolic arc length.py](./Python/[6%20kyu]%20parabolic%20arc%20length.py)
 
+* [[6 kyu] Playing on a chessboard.py](./Python/[6%20kyu]%20Playing%20on%20a%20chessboard.py)
+
 * [[6 kyu] pokemon damage calculator.py](./Python/[6%20kyu]%20pokemon%20damage%20calculator.py)
 
 * [[6 kyu] prize draw.py](./Python/[6%20kyu]%20prize%20draw.py)
@@ -374,6 +376,8 @@
 * [[6 kyu] row of the odd triangle.py](./Python/[6%20kyu]%20row%20of%20the%20odd%20triangle.py)
 
 * [[6 kyu] search in multidimensional array.py](./Python/[6%20kyu]%20search%20in%20multidimensional%20array.py)
+
+* [[6 kyu] Simple Fun #305 Typist.py](./Python/[6%20kyu]%20Simple%20Fun%20#305%20Typist.py)
 
 * [[6 kyu] simple fun 395 fibonacci digit sequence.py](./Python/[6%20kyu]%20simple%20fun%20395%20fibonacci%20digit%20sequence.py)
 
