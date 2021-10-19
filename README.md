@@ -323,6 +323,8 @@
 
 * [[6 kyu] find within array.py](./Python/[6%20kyu]%20find%20within%20array.py)
 
+* [[6 kyu] FIRE and FURY.py](./Python/[6%20kyu]%20FIRE%20and%20FURY.py)
+
 * [[6 kyu] fold an array.py](./Python/[6%20kyu]%20fold%20an%20array.py)
 
 * [[6 kyu] Grouped by commas.py](./Python/[6%20kyu]%20Grouped%20by%20commas.py)
