@@ -363,6 +363,8 @@
 
 * [[6 kyu] parabolic arc length.py](./Python/[6%20kyu]%20parabolic%20arc%20length.py)
 
+* [[6 kyu] Peel the onion.py](./Python/[6%20kyu]%20Peel%20the%20onion.py)
+
 * [[6 kyu] Playing on a chessboard.py](./Python/[6%20kyu]%20Playing%20on%20a%20chessboard.py)
 
 * [[6 kyu] pokemon damage calculator.py](./Python/[6%20kyu]%20pokemon%20damage%20calculator.py)
