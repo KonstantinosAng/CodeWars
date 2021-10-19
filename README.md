@@ -253,6 +253,8 @@
 
 * [[6 kyu] ASCII Fun #1 X-shape.py](./Python/[6%20kyu]%20ASCII%20Fun%20#1%20X-shape.py)
 
+* [[6 kyu] ASCII Fun #2 Funny Dots.py](./Python/[6%20kyu]%20ASCII%20Fun%20#2%20Funny%20Dots.py)
+
 * [[6 kyu] backspaces in string.py](./Python/[6%20kyu]%20backspaces%20in%20string.py)
 
 * [[6 kyu] ball upwards.py](./Python/[6%20kyu]%20ball%20upwards.py)
