@@ -251,6 +251,8 @@
 
 * [[6 kyu] array exchange.py](./Python/[6%20kyu]%20array%20exchange.py)
 
+* [[6 kyu] ASCII Fun #1 X-shape.py](./Python/[6%20kyu]%20ASCII%20Fun%20#1%20X-shape.py)
+
 * [[6 kyu] backspaces in string.py](./Python/[6%20kyu]%20backspaces%20in%20string.py)
 
 * [[6 kyu] ball upwards.py](./Python/[6%20kyu]%20ball%20upwards.py)
