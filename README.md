@@ -279,6 +279,8 @@
 
 * [[6 kyu] Closest Perfect Power.py](./Python/[6%20kyu]%20Closest%20Perfect%20Power.py)
 
+* [[6 kyu] Complete the matrix pattern.py](./Python/[6%20kyu]%20Complete%20the%20matrix%20pattern.py)
+
 * [[6 kyu] consecutive count.py](./Python/[6%20kyu]%20consecutive%20count.py)
 
 * [[6 kyu] Corner Fill.py](./Python/[6%20kyu]%20Corner%20Fill.py)
