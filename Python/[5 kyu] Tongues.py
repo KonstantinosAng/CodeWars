@@ -4,27 +4,23 @@ def isUpper(letter):
   return letter.upper() == letter
 
 def tongues(code):
-  words = code.split(" ")
   vowelsMap = ['a', 'i', 'y', 'e', 'o', 'u']
   consonantsMap = ['b', 'k', 'x', 'z', 'n', 'h', 'd', 'c', 'w', 'g', 'p', 'v', 'j', 'q', 't', 's', 'r', 'l', 'm', 'f']
   retArray = []
-  for word in words:
-    decodedWord = ""
-    for letter in word:
-      if letter.isalpha():
-        if letter.lower() in vowelsMap:
-          index = vowelsMap.index(letter.lower()) - 3
-          newLetter = vowelsMap[index]
-        else:
-          index = consonantsMap.index(letter.lower()) - 10
-          newLetter = consonantsMap[index]
-        if isUpper(letter): decodedWord += newLetter.upper()
-        else: decodedWord += newLetter
+  for letter in code:
+    if letter.isalpha():
+      if letter.lower() in vowelsMap:
+        index = vowelsMap.index(letter.lower()) - 3
+        newLetter = vowelsMap[index]
       else:
-        decodedWord += letter
-    retArray.append(decodedWord)
+        index = consonantsMap.index(letter.lower()) - 10
+        newLetter = consonantsMap[index]
+      if isUpper(letter): retArray.append(newLetter.upper())
+      else: retArray.append(newLetter)
+    else:
+      retArray.append(letter)
   # print(retArray)
-  return " ".join(x for x in retArray)
+  return "".join(x for x in retArray)
     
     
   
