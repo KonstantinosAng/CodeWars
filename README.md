@@ -295,6 +295,8 @@
 
 * [[6 kyu] decipher student messages.py](./Python/[6%20kyu]%20decipher%20student%20messages.py)
 
+* [[6 kyu] Decipher this!.py](./Python/[6%20kyu]%20Decipher%20this!.py)
+
 * [[6 kyu] Decode the Morse code.py](./Python/[6%20kyu]%20Decode%20the%20Morse%20code.py)
 
 * [[6 kyu] default list.py](./Python/[6%20kyu]%20default%20list.py)
