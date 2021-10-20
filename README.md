@@ -453,6 +453,8 @@
 
 * [[6 kyu] Your order, please.py](./Python/[6%20kyu]%20Your%20order,%20please.py)
 
+* [[6 kyu] Zero-plentiful Array.py](./Python/[6%20kyu]%20Zero-plentiful%20Array.py)
+
 * [[7 kyu] 16+18=214.py](./Python/[7%20kyu]%2016+18=214.py)
 
 * [[7 kyu] a rule of divisibility by 7.py](./Python/[7%20kyu]%20a%20rule%20of%20divisibility%20by%207.py)
