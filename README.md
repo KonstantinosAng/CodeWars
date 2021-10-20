@@ -231,6 +231,8 @@
 
 * [[5 kyu] The Hashtag Generator.py](./Python/[5%20kyu]%20The%20Hashtag%20Generator.py)
 
+* [[5 kyu] Tongues.py](./Python/[5%20kyu]%20Tongues.py)
+
 * [[5 kyu] ttt38 the sum of each digits.py](./Python/[5%20kyu]%20ttt38%20the%20sum%20of%20each%20digits.py)
 
 * [[5 kyu] Valid Parentheses.py](./Python/[5%20kyu]%20Valid%20Parentheses.py)
