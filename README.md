@@ -305,6 +305,8 @@
 
 * [[6 kyu] difference of 2.py](./Python/[6%20kyu]%20difference%20of%202.py)
 
+* [[6 kyu] Digital cypher vol 3 - missing key.py](./Python/[6%20kyu]%20Digital%20cypher%20vol%203%20-%20missing%20key.py)
+
 * [[6 kyu] Does my number look big in this.py](./Python/[6%20kyu]%20Does%20my%20number%20look%20big%20in%20this.py)
 
 * [[6 kyu] dominant primes.py](./Python/[6%20kyu]%20dominant%20primes.py)
