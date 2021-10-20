@@ -387,6 +387,8 @@
 
 * [[6 kyu] rainfall.py](./Python/[6%20kyu]%20rainfall.py)
 
+* [[6 kyu] Reducing by steps.py](./Python/[6%20kyu]%20Reducing%20by%20steps.py)
+
 * [[6 kyu] Replace With Alphabet Position.py](./Python/[6%20kyu]%20Replace%20With%20Alphabet%20Position.py)
 
 * [[6 kyu] row of the odd triangle.py](./Python/[6%20kyu]%20row%20of%20the%20odd%20triangle.py)
