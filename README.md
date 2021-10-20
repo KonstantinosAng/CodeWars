@@ -393,6 +393,8 @@
 
 * [[6 kyu] search in multidimensional array.py](./Python/[6%20kyu]%20search%20in%20multidimensional%20array.py)
 
+* [[6 kyu] SHA-256 Cracker.py](./Python/[6%20kyu]%20SHA-256%20Cracker.py)
+
 * [[6 kyu] Simple Fun #305 Typist.py](./Python/[6%20kyu]%20Simple%20Fun%20#305%20Typist.py)
 
 * [[6 kyu] simple fun 395 fibonacci digit sequence.py](./Python/[6%20kyu]%20simple%20fun%20395%20fibonacci%20digit%20sequence.py)
