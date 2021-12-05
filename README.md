@@ -295,6 +295,8 @@
 
 * [[6 kyu] Create Phone Number.py](./Python/[6%20kyu]%20Create%20Phone%20Number.py)
 
+* [[6 kyu] Cryptography #1 - Viva Cesare.py](./Python/[6%20kyu]%20Cryptography%20#1%20-%20Viva%20Cesare.py)
+
 * [[6 kyu] decipher student messages.py](./Python/[6%20kyu]%20decipher%20student%20messages.py)
 
 * [[6 kyu] Decipher this!.py](./Python/[6%20kyu]%20Decipher%20this!.py)
