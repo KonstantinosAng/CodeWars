@@ -133,6 +133,8 @@
 
 * [[4 kyu] Codewars style ranking system.py](./Python/[4%20kyu]%20Codewars%20style%20ranking%20system.py)
 
+* [[4 kyu] How many numbers III.py](./Python/[4%20kyu]%20How%20many%20numbers%20III.py)
+
 * [[4 kyu] Human readable duration format.py](./Python/[4%20kyu]%20Human%20readable%20duration%20format.py)
 
 * [[4 kyu] Most frequently used words in a text.py](./Python/[4%20kyu]%20Most%20frequently%20used%20words%20in%20a%20text.py)
