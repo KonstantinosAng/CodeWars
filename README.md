@@ -325,6 +325,8 @@
 
 * [[6 kyu] elimination tournament.py](./Python/[6%20kyu]%20elimination%20tournament.py)
 
+* [[6 kyu] Emotional Sort.py](./Python/[6%20kyu]%20Emotional%20Sort.py)
+
 * [[6 kyu] encrypt this.py](./Python/[6%20kyu]%20encrypt%20this.py)
 
 * [[6 kyu] english beggars.py](./Python/[6%20kyu]%20english%20beggars.py)
