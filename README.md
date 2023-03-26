@@ -353,6 +353,8 @@
 
 * [[6 kyu] i need more speed.py](./Python/[6%20kyu]%20i%20need%20more%20speed.py)
 
+* [[6 kyu] If you can read this.py](./Python/[6%20kyu]%20If%20you%20can%20read%20this.py)
+
 * [[6 kyu] IP address finder [Code-golf].py](./Python/[6%20kyu]%20IP%20address%20finder%20[Code-golf].py)
 
 * [[6 kyu] IP validation.py](./Python/[6%20kyu]%20IP%20validation.py)
