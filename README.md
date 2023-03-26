@@ -287,6 +287,8 @@
 
 * [[6 kyu] consecutive count.py](./Python/[6%20kyu]%20consecutive%20count.py)
 
+* [[6 kyu] Coordinates Validator.py](./Python/[6%20kyu]%20Coordinates%20Validator.py)
+
 * [[6 kyu] Corner Fill.py](./Python/[6%20kyu]%20Corner%20Fill.py)
 
 * [[6 kyu] Count words.py](./Python/[6%20kyu]%20Count%20words.py)
