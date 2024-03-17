@@ -21,6 +21,8 @@
     
 * [[4 kyu] permutations.js](./Javascript/[4%20kyu]%20permutations.js)
 
+* [[4 kyu] Roman Numerals Helper.js](./Javascript/[4%20kyu]%20Roman%20Numerals%20Helper.js)
+
 * [[5 kyu] Human Readable Time.js](./Javascript/[5%20kyu]%20Human%20Readable%20Time.js)
 
 * [[5 kyu] mixbonacci.js](./Javascript/[5%20kyu]%20mixbonacci.js)
